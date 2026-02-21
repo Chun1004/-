@@ -1,11 +1,3 @@
-https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/kszsuhwg.ss.m3u8
-https://tvnow.best/api/stream/markwilson45@gmail.com/Kyarra@1993/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
-https://tvnow.best/api/stream/dnaru/dnaru/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
-https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/ziggo.sport.golf.nl.m3u8
-
-
-
-
 #EXTM3U 
 
 #EXTINF:-1 group-title="CANADA" cbc.cbrt.calgary.ab.ca.m3u8 , CBC CALGARY 
@@ -48,4 +40,5 @@ https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.easte
 #EXTINF:-1 group-title="CANADA" hbo.west.us.m3u8 , HBO West 
 https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.west.us.m3u8
  
+
 
