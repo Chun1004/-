@@ -1,0 +1,51 @@
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/kszsuhwg.ss.m3u8
+https://tvnow.best/api/stream/markwilson45@gmail.com/Kyarra@1993/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
+https://tvnow.best/api/stream/dnaru/dnaru/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
+https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/ziggo.sport.golf.nl.m3u8
+
+
+
+
+#EXTM3U 
+
+#EXTINF:-1 group-title="CANADA" cbc.cbrt.calgary.ab.ca.m3u8 , CBC CALGARY 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
+
+#EXTINF:-1 group-title="CANADA"  , CBC NEWS CALGARY
+https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="CANADA", CITY NEWS Calgary 
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 group-title="CANADA" ctv.cfcn.calgary.ab.ca.m3u8 , CTV CALGARY 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8
+
+#EXTINF:-1 group-title="CANADA" ctv2.alberta.ca.m3u8 , CTV2 ALBERTA 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv2.alberta.ca.m3u8
+
+#EXTINF:-1 group-title="CANADA" global.cict.calgary.ab.ca.m3u8 , GLOBAL CALGARY 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/global.cict.calgary.ab.ca.m3u8
+
+#EXTINF:-1 group-title="CANADA", GLOBAL NEWS CALGARY 
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
+
+#EXTINF:-1 group-title="CANADA" golf.channel.usa.us.m3u8 , GOLF CHANNEL 
+https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/golf.channel.canada.ca.m3u8
+
+#EXTINF:-1 group-title="CANADA" kszsuhwg.ss.m3u8 , SKY SPORTS GOLF 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/kszsuhwg.ss.m3u8
+
+#EXTINF:-1 group-title="CANADA" hbo.ca.m3u8 , HBO
+https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.ca.m3u8
+ 
+#EXTINF:-1 group-title="CANADA" hbo.2.eastern.ca.m3u8 , HBO2 
+https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.2.eastern.ca.m3u8
+ 
+#EXTINF:-1 group-title="CANADA" hbo.eastern.us.m3u8 , HBO East 
+https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.eastern.us.m3u8
+ 
+#EXTINF:-1 group-title="CANADA" hbo.west.us.m3u8 , HBO West 
+https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.west.us.m3u8
+ 
+
