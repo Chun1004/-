@@ -28,6 +28,10 @@ https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/golf.chan
 #EXTINF:-1 group-title="" kszsuhwg.ss.m3u8 , SKY SPORTS GOLF 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/kszsuhwg.ss.m3u8
 
+#EXTINF:-1 group-title="", PGA Tour
+https://jmp2.uk/stvp-KRBD3100007WB
+
+
 #EXTINF:-1 group-title="" hbo.ca.m3u8 , HBO
 https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.ca.m3u8
  
@@ -39,7 +43,42 @@ https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.easte
  
 #EXTINF:-1 group-title="" hbo.west.us.m3u8 , HBO West 
 https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.west.us.m3u8
+
+
+#EXTINF:-1 group-title="" crave1.east.ca.m3u8 , CRAVE1
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave1.east.ca.m3u8
  
+#EXTINF:-1 group-title="" crave2.east.ca.m3u8 , CRAVE2
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave2.east.ca.m3u8
+ 
+#EXTINF:-1 group-title="" crave3.east.ca.m3u8 , CRAVE3 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave3.east.ca.m3u8
+ 
+#EXTINF:-1 group-title="" crave4.east.ca.m3u8 , CRAVE4
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave4.east.ca.m3u8
+
+
+#EXTINF:-1 group-title="" showtime.eastern.us.m3u8 , SHOWTIME EAST
+https://tvnow.best/api/stream/ismaelguere@gmail.com/168508/livetv.epg/showtime.eastern.us.m3u8
+ 
+#EXTINF:-1 group-title="" showtime.2.eastern.us.m3u8 , SHOWTIME2 EAST 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/showtime.2.eastern.us.m3u8
+ 
+#EXTINF:-1 group-title="" showtime.west.us.m3u8 , SHOWTIME West
+https://tvnow.best/api/stream/ismaelguere@gmail.com/168508/livetv.epg/showtime.west.us.m3u8
+ 
+#EXTINF:-1 group-title="" showtime.extreme.eastern.us.m3u8 , SHOWTIME EXTREME 
+https://tv4.live/api/stream/junkmailer30@yahoo.com/6463024486/livetv.epg/showtime.extreme.eastern.us.m3u8
+ 
+#EXTINF:-1 group-title="" showtime.family.zone.eastern.us.m3u8 , SHOWTIME FAMILY 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/showtime.family.zone.eastern.us.m3u8
+ 
+#EXTINF:-1 group-title="" showtime.showcase.eastern.us.m3u8 , SHOWTIME SHOWCASE 
+https://tv4.live/api/stream/junkmailer30@yahoo.com/6463024486/livetv.epg/showtime.showcase.eastern.us.m3u8
+
+
+
+
 
 
 
