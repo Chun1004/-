@@ -128,8 +128,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 #EXTINF:-1 group-title="대한민국", 영화3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-#EXTINF:-1 group-title="대한민국", Groovv 
-http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
 #EXTINF:-1 group-title="대한민국", OCN
 http://live-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=smfv2nBmE68y3QNXipX7RVkdtvGDocgPJkSgX2fI&secret=57375caa38ba3f857e107ec8e27067ba&time=1696829056
 #EXTINF:-1 group-title="대한민국", OCN Movies
@@ -155,5 +154,6 @@ http://live-edge-th136.myjktv.com/watch/live.m3u8?video=super_action_540&sid=mQc
 
 
  
+
 
 
