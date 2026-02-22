@@ -106,9 +106,54 @@ https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=defa
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
 
 
+#EXTINF:-1 group-title="대한민국", 한국영화
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+#EXTINF:-1 group-title="대한민국",인기영화
+https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
+
+#EXTINF:-1 group-title="대한민국", TV1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="대한민국", TV2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="대한민국", TV3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+#EXTINF:-1 group-title="대한민국", TV4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+#EXTINF:-1 group-title="대한민국", TV5
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+
+#EXTINF:-1 group-title="대한민국", 영화1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 group-title="대한민국", 영화2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 group-title="대한민국", 영화3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+#EXTINF:-1 group-title="대한민국", Groovv 
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="대한민국", OCN
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=ocn_540&sid=smfv2nBmE68y3QNXipX7RVkdtvGDocgPJkSgX2fI&secret=57375caa38ba3f857e107ec8e27067ba&time=1696829056
+#EXTINF:-1 group-title="대한민국", OCN Movies
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=cgv_540&sid=F2W5wT3iKKB8MUqnX2rzvDQBscfzOhXWHvIV0iYK&secret=76343d55f8c2b1a7c402216302c858ee&time=1696829067
+#EXTINF:-1 group-title="대한민국", OCN Movies2
+http://live-edge-th136.myjktv.com/watch/live.m3u8?video=super_action_540&sid=mQcxOkZZUXjEEL12NiM5po2XJpDmUrSa8lE3EauO&secret=54e92c800b39c4b4250b8cb4abe7e934&time=1696829529
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 
  
+
 
