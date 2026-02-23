@@ -2,7 +2,6 @@
 
 #EXTINF:-1 group-title="한국쇼핑" hyundai , 현대홈쇼핑 
 http://123.111.139.103:1935/live/hmall.stream/chunklist_w205728486.m3u8
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑" gs shop , GS SHOP 
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
@@ -15,7 +14,6 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑", CJ온스타일 
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-;https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
 
 
@@ -24,8 +22,6 @@ https://etv.publichs.com/live5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑", 홈&쇼핑 
 http://s33.qtcdn.co.kr/media/liveM3U8/idx/88679292/enc/365888297/playlist.m3u8
-https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-https://lb.privatevps.org/play/T8ZPh8YPsWDvRPi8vefGpjvhy1tPSYr08mtoXacB99srFx689LWF5FFVmdS3bSZO
 
 #EXTINF:-1 group-title="한국쇼핑" Shopping NT , 쇼핑엔티 
 https://live.shoppingntmall.com/live/10011.m3u8
@@ -35,11 +31,9 @@ https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑" SK Stoa , SK스토아 
 http://castcache2.skstoa.com:8080/live/BSHOPPING.daml/playlist.m3u8
-http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑" kt , KT알파쇼핑 
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=F1401&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국쇼핑" Shinsegae , 신세계쇼핑 
 http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
@@ -48,7 +42,6 @@ http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p
 
 #EXTINF:-1 group-title="한국쇼핑" hyundai , 현대홈쇼핑+샵 
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑" , GS MY SHOP 
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
@@ -61,16 +54,6 @@ http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑", CJ온스타일+ 
 http://live-ch2.cjmall.net/cjosplus/_definst_/live1/playlist.m3u8
-;https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
-
-
-
-
-
-
-
-
-
 
 
 
