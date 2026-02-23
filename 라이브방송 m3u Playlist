@@ -12,8 +12,29 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 
 *** Free M3U Playlists ***
 
-LG Channels Playlist URL:   [CBC News Calgary]
+Pluto playlist (M3U) 
+https://nocords.xyz/pluto/playlist.m3u
+https://pluto.freechannels.me/playlist.m3u 
+https://gist.githubusercontent.com/miccayo/afe8aec7b01aebed7f91b9fd8a595dac/raw/8e17e8a89266bdf1d5b8d86dec626400057b0215/plutotv.m3u
+Pluto EPG
+https://pluto.freechannels.me/epg.xml 
+
+tubi
+https://github.com/BuddyChewChew/tubi-scraper
+tubi_playlist.m3u: 
+https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u
+tubi_epg.xml: 
+https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml
+
+LG Channels Playlist URL:   [ CBC News Calgary ]
 https://www.apsattv.com/lg.m3u
+
+Free TV IPTV player 
+https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
+
+
+
+
 
 
 XUMO Playlist URL: 
