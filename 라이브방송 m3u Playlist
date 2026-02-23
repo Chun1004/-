@@ -29,8 +29,14 @@ ca: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plu
 us: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
 
 
+
+
 LG Channels Playlist URL:   [ CBC News Calgary ]
 https://www.apsattv.com/lg.m3u
+
+IPTV Org M3U Playlist URL: [ CityNews Calgary ]
+https://iptv-org.github.io/iptv/index.m3u
+
 
 Free TV IPTV player 
 https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
@@ -70,6 +76,8 @@ https://tvpass.org/playlist/m3u
 
 The Roku Channel Playlist URL: 
 https://www.apsattv.com/rok.m3u
+https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz
+
 
 Redbox TV Playlist URL: 
 https://www.apsattv.com/redbox.m3u
