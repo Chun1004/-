@@ -6,97 +6,17 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91.txt
 
 
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_ca.m3u
-
 
 
 *** Free M3U Playlists ***
 
 
-Pluto playlist (M3U) 
-ALL: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u
+Pluto playlist (M3U): ALL: plutotv_all.m3u
 ca: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ca.m3u
 us: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u
 
 Pluto EPG: https://i.mjh.nz/PlutoTV/
 ca: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ar.xml
 us: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
-
-
-
-tubi m3u
-https://github.com/BuddyChewChew/tubi-scraper
-tubi_playlist.m3u: 
-https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
-tubi_epg.xml: 
-https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml
-
-
-
-
-
-LG Channels Playlist URL:   [ CBC News Calgary ]
-https://www.apsattv.com/lg.m3u
-
-IPTV Org M3U Playlist URL: [ CityNews Calgary ]
-https://iptv-org.github.io/iptv/index.m3u
-
-
-Free TV IPTV player 
-https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
-
-
-
-
-
-
-Xumo M3U Playlist and EPG Generator: 
-This repository automatically generates an M3U playlist and XMLTV EPG file for Xumo TV channels available in the US.
-M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
-
-Local Now Playlist URL: 
-https://www.apsattv.com/localnow.m3u
-
-DistroTV Playlist URL: 
-https://www.apsattv.com/distro.m3u
-
-Xiaomi Playlist URL: 
-https://www.apsattv.com/xiaomi.m3u
-
-Tablo Playlist URL: 
-https://www.apsattv.com/tablo.m3u
-
-Vizio TV Playlist URL: 
-https://www.apsattv.com/vizio.m3u
-
-TheTVApp Playlist URL: 
-https://tvpass.org/playlist/m3u
-
-
-
-
-
-
-
-
-The Roku Channel Playlist URL: 
-https://www.apsattv.com/rok.m3u
-https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz
-
-
-Redbox TV Playlist URL: 
-https://www.apsattv.com/redbox.m3u
-
-IPTV Org Playlist URL: 
-https://iptv-org.github.io/iptv/index.m3u
-
-EPGHub Official Playlist Website: 
-https://epghub.xyz/
-
-Samsung TV Plus Playlist URL: 
-https://apsattv.com/ssungusa.m3u
-
 
 
