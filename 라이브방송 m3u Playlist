@@ -47,8 +47,9 @@ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8.
 
 
 
-XUMO Playlist URL: 
-https://www.apsattv.com/xumo.m3u
+Xumo M3U Playlist and EPG Generator: 
+This repository automatically generates an M3U playlist and XMLTV EPG file for Xumo TV channels available in the US.
+M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
 
 Local Now Playlist URL: 
 https://www.apsattv.com/localnow.m3u
