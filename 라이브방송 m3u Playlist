@@ -20,11 +20,11 @@ https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tub
 
 
 Pluto playlist (M3U) 
-https://nocords.xyz/pluto/playlist.m3u
-https://pluto.freechannels.me/playlist.m3u 
-https://gist.githubusercontent.com/miccayo/afe8aec7b01aebed7f91b9fd8a595dac/raw/8e17e8a89266bdf1d5b8d86dec626400057b0215/plutotv.m3u
-Pluto EPG
-https://i.mjh.nz/PlutoTV/
+ALL: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u
+ca: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ca.m3u
+us: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u
+
+Pluto EPG: https://i.mjh.nz/PlutoTV/
 ca: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ar.xml
 us: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
 
