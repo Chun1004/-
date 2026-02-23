@@ -14,9 +14,10 @@ tubi
 https://github.com/BuddyChewChew/tubi-scraper
 tubi_playlist.m3u: 
 https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
 tubi_epg.xml: 
 https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml
-
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml
 
 
 Pluto playlist (M3U) 
