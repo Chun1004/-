@@ -10,15 +10,6 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 
 *** Free M3U Playlists ***
 
-tubi
-https://github.com/BuddyChewChew/tubi-scraper
-tubi_playlist.m3u: 
-https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
-tubi_epg.xml: 
-https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml
-
 
 Pluto playlist (M3U) 
 ALL: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u
@@ -28,6 +19,18 @@ us: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads
 Pluto EPG: https://i.mjh.nz/PlutoTV/
 ca: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ar.xml
 us: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
+
+
+
+tubi m3u
+https://github.com/BuddyChewChew/tubi-scraper
+tubi_playlist.m3u: 
+https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
+tubi_epg.xml: 
+https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml
+
 
 
 
