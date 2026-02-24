@@ -11,12 +11,9 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="대한민국", SBS 
 http://180.69.60.42:8856/udp/239.192.67.98:49220
-
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8?checkedby:iptvcat.com
-http://43.137.43.57/get_channel.php?channel=sbs  
  
 #EXTINF:-1 group-title="대한민국" tving C00708, MBN 
-http://43.137.43.57/get_channel.php?channel=mbn
+https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
 
 #EXTINF:-1 group-title="대한민국", tvN
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=default&apikey=F9YNTRBJQK
@@ -157,6 +154,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991348/hls/master.m3u8?includeAsset
 
 #EXTINF:-1 group-title="대한민국", NEW Korean MOVIES & SERIES
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NewKoreanMoviesandSeries&ads.csid=xumo_[PLATFORM]_NewKoreanMoviesandSeries_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1825&ads.xumo_contentName=NEWK.ID&ads.xumo_providerId=1825&ads.xumo_providerName=NEWK.ID&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991386&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
 
 
 
