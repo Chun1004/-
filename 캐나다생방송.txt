@@ -58,27 +58,3 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave3.east.c
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave4.east.ca.m3u8
 
 
-#EXTINF:-1 group-title="" showtime.eastern.us.m3u8 , SHOWTIME EAST
-https://tvnow.best/api/stream/ismaelguere@gmail.com/168508/livetv.epg/showtime.eastern.us.m3u8
- 
-#EXTINF:-1 group-title="" showtime.2.eastern.us.m3u8 , SHOWTIME2 EAST 
-https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/showtime.2.eastern.us.m3u8
- 
-#EXTINF:-1 group-title="" showtime.west.us.m3u8 , SHOWTIME West
-https://tvnow.best/api/stream/ismaelguere@gmail.com/168508/livetv.epg/showtime.west.us.m3u8
- 
-#EXTINF:-1 group-title="" showtime.extreme.eastern.us.m3u8 , SHOWTIME EXTREME 
-https://tv4.live/api/stream/junkmailer30@yahoo.com/6463024486/livetv.epg/showtime.extreme.eastern.us.m3u8
- 
-#EXTINF:-1 group-title="" showtime.family.zone.eastern.us.m3u8 , SHOWTIME FAMILY 
-https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/showtime.family.zone.eastern.us.m3u8
- 
-#EXTINF:-1 group-title="" showtime.showcase.eastern.us.m3u8 , SHOWTIME SHOWCASE 
-https://tv4.live/api/stream/junkmailer30@yahoo.com/6463024486/livetv.epg/showtime.showcase.eastern.us.m3u8
-
-
-
-
-
-
-
