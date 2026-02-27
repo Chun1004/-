@@ -91,7 +91,6 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
 
-
 #EXTINF:-1 group-title="대한민국", OCN 
 http://43.137.43.57/get_channel.php?channel=ocn
 
@@ -134,10 +133,12 @@ https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=defa
 
 #EXTINF:-1 group-title="대한민국", YTN2 
 https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.17.30_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=145.0.0.0&sgn.pln=Hls.js&sgn.plv=2.17.30&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzIyNzYwMjIsInN1YiI6Ii95dG53LyoiLCJ2eHIiOjkxMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDUuMC4wLjAifQ.SZ3jfYbFcMIdTyF-sU7X_kfuje9MCp3IkDG3e4OF7ZM&ads.asn=17858&ads.channel_code=C01101&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P07649&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
+
 #EXTINF:-1 group-title="대한민국", YTN Science 
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
