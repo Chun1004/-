@@ -29,18 +29,6 @@ https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/golf.chan
 https://jmp2.uk/stvp-KRBD3100007WB
 
 
-#EXTINF:-1 group-title="" hbo.ca.m3u8 , HBO
-https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.ca.m3u8
- 
-#EXTINF:-1 group-title="" hbo.2.eastern.ca.m3u8 , HBO2 
-https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.2.eastern.ca.m3u8
- 
-#EXTINF:-1 group-title="" hbo.eastern.us.m3u8 , HBO East 
-https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.eastern.us.m3u8
- 
-#EXTINF:-1 group-title="" hbo.west.us.m3u8 , HBO West 
-https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.west.us.m3u8
-
 
 #EXTINF:-1 group-title="" crave1.east.ca.m3u8 , CRAVE1
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave1.east.ca.m3u8
@@ -53,6 +41,7 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave3.east.c
  
 #EXTINF:-1 group-title="" crave4.east.ca.m3u8 , CRAVE4
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave4.east.ca.m3u8
+
 
 
 
