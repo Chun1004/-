@@ -35,13 +35,13 @@ http://43.137.43.57/get_channel.php?channel=yna
 
 
 #EXTINF:-1 group-title="대한민국", SBS GOLF 
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=8No4oKWpRJMbb9rsAuWQ75ACx37sUj3gRkeLupvY&secret=72464b0ac707bb73f4d46a2e1082e64f&time=1748029685
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
 
 #EXTINF:-1 group-title="대한민국", SBS GOLF2 
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="대한민국", JTBC GOLF
-https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=cyNOJfMG4XdPSNZgelsX20LO6JIswmwBogQuhi5w&secret=c3387bb24ccfdd0e6ff593ba600ab7ca&time=1742501236
+http://180.69.60.42:8856/udp/239.192.67.165:49220
 
 #EXTINF:-1 group-title="대한민국", JTBC SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
@@ -71,8 +71,7 @@ http://43.165.182.125/hls/KBSjoy.m3u8
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국", SBS Plus
-http://live-114.myjktv.com/watch/live.m3u8?video=sbs_plus_540&sid=AHXtC57FYS5l97NsUDspjKf06XUN1Y7Ks3Gc7bTt&secret=22e34d0bb43a7b7d5dea6355c6aae485&time=1747460703
-
+http://koreatv.dothome.co.kr/sbsplus.php
 
 #EXTINF:-1 group-title="대한민국", KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
@@ -92,27 +91,20 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 http://43.137.43.57/get_channel.php?channel=ocn
 
 #EXTINF:-1 group-title="대한민국", OCN Movies 
-http://live-114.myjktv.com/watch/live.m3u8?video=cgv_540&sid=WWB66tyEeURz6Az9YbbPS8Fop4891HXvjlss0nOV&secret=387a210ebfd1c940577323c330250245&time=1736162266
+http://180.69.60.42:8856/udp/239.192.67.227:49220
 
 #EXTINF:-1 group-title="대한민국", OCN Movies2 
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
-
-
-#EXTINF:-1 group-title="대한민국", 한국영화
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_224_DB653155.m3u8
+http://180.69.60.42:8856/udp/239.192.67.228:49220
 
 #EXTINF:-1 group-title="대한민국",인기영화
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
-
-#EXTINF:-1 group-title="대한민국", KOCOWA K-Drama
-https://dbrb49pjoymg4.cloudfront.net/10001/99991348/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991348&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Kocowa&ads.csid=xumo_[PLATFORM]_Kocowa_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Action,Drama,GD,GV,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=285&ads.xumo_contentName=Kocowa&ads.xumo_providerId=285&ads.xumo_providerName=Kocowa&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991348&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
 #EXTINF:-1 group-title="대한민국", NEW Korean MOVIES & SERIES
 https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NewKoreanMoviesandSeries&ads.csid=xumo_[PLATFORM]_NewKoreanMoviesandSeries_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1825&ads.xumo_contentName=NEWK.ID&ads.xumo_providerId=1825&ads.xumo_providerName=NEWK.ID&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991386&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
 
 
-#EXTINF:-1 group-title="대한민국", MBN+ 
+#EXTINF:-1 group-title="대한민국", MBN+
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C17142&q=default&apikey=F9YNTRBJQK
 
 #EXTINF:-1 group-title="대한민국", 채널A+  
@@ -131,9 +123,11 @@ https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=defa
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=default&apikey=F9YNTRBJQK
 
 #EXTINF:-1 group-title="대한민국", YTN Science 
+https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=default&apikey=F9YNTRBJQK
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
