@@ -64,8 +64,12 @@ https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=defa
 https://jmp2.uk/stvp-KRBC800015MH
 
 
+#EXTINF:-1 group-title="대한민국", KBS Story
+http://koreatv.dothome.co.kr/kbsstory.php
+
+
 #EXTINF:-1 group-title="대한민국", KBS joy 
-http://43.165.182.125/hls/KBSjoy.m3u8
+http://koreatv.dothome.co.kr/kbsjoy.php
 
 #EXTINF:-1 group-title="대한민국", MBC every1
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
@@ -73,8 +77,9 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO4211
 #EXTINF:-1 group-title="대한민국", SBS Plus
 http://koreatv.dothome.co.kr/sbsplus.php
 
+
 #EXTINF:-1 group-title="대한민국", KBS Drama
-http://mytv.dothome.co.kr/ch/catv/2.php/.m3u8
+http://koreatv.dothome.co.kr/kbsdrama.php
 
 #EXTINF:-1 group-title="대한민국", tvN Drama 
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=default&apikey=F9YNTRBJQK
@@ -95,6 +100,14 @@ http://180.69.60.42:8856/udp/239.192.67.227:49220
 
 #EXTINF:-1 group-title="대한민국", OCN Movies2 
 http://180.69.60.42:8856/udp/239.192.67.228:49220
+
+
+#EXTINF:-1 group-title="대한민국", Genie Movie
+https://jmp2.uk/stvp-KR12000017G
+
+#EXTINF:-1 group-title="대한민국", Genie 액션특선
+https://jmp2.uk/stvp-KR2000012AI
+
 
 #EXTINF:-1 group-title="대한민국",인기영화
 https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
@@ -120,13 +133,12 @@ https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C15741&q=defa
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=default&apikey=F9YNTRBJQK
 
 #EXTINF:-1 group-title="대한민국", YTN2 
-https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C01101&q=default&apikey=F9YNTRBJQK
-
+https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.17.30_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=145.0.0.0&sgn.pln=Hls.js&sgn.plv=2.17.30&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzIyNzYwMjIsInN1YiI6Ii95dG53LyoiLCJ2eHIiOjkxMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDUuMC4wLjAifQ.SZ3jfYbFcMIdTyF-sU7X_kfuje9MCp3IkDG3e4OF7ZM&ads.asn=17858&ads.channel_code=C01101&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P07649&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 #EXTINF:-1 group-title="대한민국", YTN Science 
-https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C15347&q=default&apikey=F9YNTRBJQK
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
