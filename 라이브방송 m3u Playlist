@@ -7,16 +7,8 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 
 
 
-
-*** Free M3U Playlists ***
-
-
-Pluto playlist (M3U): ALL: plutotv_all.m3u
-ca: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ca.m3u
-us: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u
-
-Pluto EPG: https://i.mjh.nz/PlutoTV/
-ca: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/ar.xml
-us: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/us.xml
-
+* Plex playlist (M3U) 
+ M3U: https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_ca.m3u
+ EPG: https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/ca.xml
+ 
 
