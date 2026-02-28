@@ -1,73 +1,75 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="" cbc.cbrt.calgary.ab.ca.m3u8 , CBC Calgary 
+#EXTINF:-1 group-title=""  , CBC Calgary 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
 
 #EXTINF:-1 group-title=""  , CBC News Network
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="", Citytv Calgary News
+#EXTINF:-1 group-title="", Citytv Calgary 
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
-#EXTINF:-1 group-title="" ctv.cfcn.calgary.ab.ca.m3u8 , CTV Calgary 
+#EXTINF:-1 group-title="" , CTV Calgary 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8
 
-#EXTINF:-1 group-title="" ctv2.alberta.ca.m3u8 , CTV Two Alberta  
+#EXTINF:-1 group-title=""  , CTV Two Alberta  
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv2.alberta.ca.m3u8
 
-#EXTINF:-1 group-title="" global.cict.calgary.ab.ca.m3u8 , GLOBAL Calgary 
-https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/global.cict.calgary.ab.ca.m3u8
-
-#EXTINF:-1 group-title="", GLOBAL Calgary News
+#EXTINF:-1 group-title="", GLOBAL Calgary 
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 
 
-#EXTINF:-1 group-title="" golf.channel.usa.us.m3u8 , GOLF Channel  
+#EXTINF:-1 group-title=""  , GOLF Channel  
 https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/golf.channel.canada.ca.m3u8
 
-#EXTINF:-1 group-title="", PGA Tour
+#EXTINF:-1 group-title="" , PGA Tour
 https://jmp2.uk/stvp-KRBD3100007WB
 
 
-#EXTINF:-1 group-title="" crave1.east.ca.m3u8 , Crave1
+#EXTINF:-1 group-title=""  , Crave1
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave1.east.ca.m3u8
  
-#EXTINF:-1 group-title="" crave2.east.ca.m3u8 , Crave2
+#EXTINF:-1 group-title="" 8 , Crave2
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave2.east.ca.m3u8
  
-#EXTINF:-1 group-title="" crave3.east.ca.m3u8 , Crave3 
+#EXTINF:-1 group-title=""  , Crave3 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave3.east.ca.m3u8
  
-#EXTINF:-1 group-title="" crave4.east.ca.m3u8 , Crave4
+#EXTINF:-1 group-title=""  , Crave4
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave4.east.ca.m3u8
 
 
 
-#EXTINF:-1 group-title="" hbo.ca.m3u8 , HBO Canada 
+#EXTINF:-1 group-title="" , HBO Canada 
 https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.ca.m3u8
 
-#EXTINF:-1 group-title="" hbo.west.us.m3u8 , HBO Canada West
+#EXTINF:-1 group-title=""  , HBO Canada West
 https://tv4.live/api/stream/vpnsharknet@gmail.com/089465/livetv.epg/hbo.west.us.m3u8
 
-#EXTINF:-1 group-title="" love.nature.ca.m3u8 , Love Nature 
+#EXTINF:-1 group-title=""  , Love Nature 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/love.nature.ca.m3u8
 
 
-#EXTINF:-1 group-title="" tsn1.ca.m3u8 , TSN 1 
+#EXTINF:-1 group-title=""  , TSN 1 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/tsn1.ca.m3u8
  
-#EXTINF:-1 group-title="" tsn2.ca.m3u8 , TSN 2 
+#EXTINF:-1 group-title=""  , TSN 2 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/tsn2.ca.m3u8
  
-#EXTINF:-1 group-title="" tsn3.ca.m3u8 , TSN 3 
+#EXTINF:-1 group-title=""  , TSN 3 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/tsn3.ca.m3u8
  
-#EXTINF:-1 group-title="" tsn4.ca.m3u8 , TSN 4 
+#EXTINF:-1 group-title="" , TSN 4 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/tsn4.ca.m3u8
  
-#EXTINF:-1 group-title="" tsn5.ca.m3u8 , TSN 5 
-https://tvnow.best/api/stream/clayton@c-maxwell.net/vfXWdzHkjmAdVG8w/livetv.epg/tsn5.ca.m3u8
+#EXTINF:-1 group-title=""  , TSN 5 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/tsn5.ca.m3u8
  
+
+
+#EXTINF:-1 group-title="" , Weather Network
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/weather.network.ca.m3u8
+
 
 
 
