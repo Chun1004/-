@@ -30,15 +30,15 @@ https://jmp2.uk/stvp-KR3700002JT
 #EXTINF:-1 group-title="대한민국", YTN
 https://jmp2.uk/stvp-KRBD2400001XD
 
-#EXTINF:-1 group-title="대한민국" 연합뉴스 , YONHAP
+#EXTINF:-1 group-title="대한민국" 연합뉴스 , YONHAP뉴스
 http://43.137.43.57/get_channel.php?channel=yna
 
 
+#EXTINF:-1 group-title="대한민국", SBS Golf2 
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
+
 #EXTINF:-1 group-title="대한민국", SBS Golf 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
-
-#EXTINF:-1 group-title="대한민국", SBSGolf2 
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="대한민국", JTBC Golf
 http://180.69.60.42:8856/udp/239.192.67.165:49220
@@ -49,7 +49,7 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 #EXTINF:-1 group-title="대한민국", SPOTV Golf&Health 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
 
-#EXTINF:-1 group-title="대한민국", 스크린골프
+#EXTINF:-1 group-title="대한민국", SCREEN 골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
 
@@ -120,6 +120,7 @@ https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
