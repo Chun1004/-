@@ -101,21 +101,6 @@ http://180.69.60.42:8856/udp/239.192.67.227:49220
 http://180.69.60.42:8856/udp/239.192.67.228:49220
 
 
-#EXTINF:-1 group-title="대한민국", Genie Movie
-https://jmp2.uk/stvp-KR12000017G
-
-#EXTINF:-1 group-title="대한민국", Genie 액션특선
-https://jmp2.uk/stvp-KR2000012AI
-
-
-#EXTINF:-1 group-title="대한민국",인기영화
-https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/572aa063-e822-4471-8b30-12e1cfc1aaac/0.m3u8
-
-#EXTINF:-1 group-title="대한민국", NEW Korean MOVIES & SERIES
-https://dbrb49pjoymg4.cloudfront.net/10001/99991386/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991386&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NewKoreanMoviesandSeries&ads.csid=xumo_[PLATFORM]_NewKoreanMoviesandSeries_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=1825&ads.xumo_contentName=NEWK.ID&ads.xumo_providerId=1825&ads.xumo_providerName=NEWK.ID&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991386&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-
-
 #EXTINF:-1 group-title="대한민국", MBN+
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C17142&q=default&apikey=F9YNTRBJQK
 
@@ -138,6 +123,7 @@ https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
