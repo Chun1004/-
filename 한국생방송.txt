@@ -30,7 +30,7 @@ https://jmp2.uk/stvp-KR3700002JT
 #EXTINF:-1 group-title="대한민국", YTN
 https://jmp2.uk/stvp-KRBD2400001XD
 
-#EXTINF:-1 group-title="대한민국" 연합뉴스 , YONHAP뉴스
+#EXTINF:-1 group-title="대한민국"  , 연합뉴스TV
 http://43.137.43.57/get_channel.php?channel=yna
 
 
@@ -120,6 +120,7 @@ https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
