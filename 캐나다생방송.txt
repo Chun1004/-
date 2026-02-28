@@ -53,8 +53,9 @@ https://tv4.live/api/stream/vpnsharknet@gmail.com/089465/livetv.epg/hbo.west.us.
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/love.nature.ca.m3u8
 
 
-#EXTINF:-1 group-title="" , Weather Network
+#EXTINF:-1 group-title="" , Weather Network (CWEA)
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/weather.network.ca.m3u8
+
 
 
 
