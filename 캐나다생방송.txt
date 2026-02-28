@@ -6,7 +6,7 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/cbc.cbrt.calg
 #EXTINF:-1 group-title=""  , CBC News Network
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="", CityNews 680
+#EXTINF:-1 group-title="", CityNews Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
 #EXTINF:-1 group-title="" , CTV Calgary 
@@ -55,6 +55,7 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/love.nature.c
 
 #EXTINF:-1 group-title="" , Weather Network
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/weather.network.ca.m3u8
+
 
 
 
