@@ -12,7 +12,7 @@ https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="대한민국", SBS 
 http://43.137.43.57/get_channel.php?channel=sbs  
 
-#EXTINF:-1 group-title="대한민국" tving C00708, MBN 
+#EXTINF:-1 group-title="대한민국" , MBN 
 http://43.137.43.57/get_channel.php?channel=mbn
 
 #EXTINF:-1 group-title="대한민국", tvN
@@ -24,7 +24,7 @@ http://43.137.43.57/get_channel.php?channel=jtbc
 #EXTINF:-1 group-title="대한민국", 채널A
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C01583&q=default&apikey=F9YNTRBJQK
 
-#EXTINF:-1 group-title="대한민국" CHOSUN , TV조선 
+#EXTINF:-1 group-title="대한민국" , TV조선 
 https://jmp2.uk/stvp-KR3700002JT
 
 #EXTINF:-1 group-title="대한민국", YTN
@@ -49,7 +49,7 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 #EXTINF:-1 group-title="대한민국", SPOTV Golf&Health 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
 
-#EXTINF:-1 group-title="대한민국", SCREEN 골프존 
+#EXTINF:-1 group-title="대한민국", 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
 
@@ -84,7 +84,7 @@ http://koreatv.dothome.co.kr/kbsdrama.php
 #EXTINF:-1 group-title="대한민국", tvN Drama 
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=default&apikey=F9YNTRBJQK
 
-#EXTINF:-1 group-title="대한민국" MBC드라마 , MBC드라마 
+#EXTINF:-1 group-title="대한민국" , MBC드라마 
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 
 
@@ -92,10 +92,10 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 http://43.137.43.57/get_channel.php?channel=ocn
 
 #EXTINF:-1 group-title="대한민국", OCN Movies 
-http://180.69.60.42:8856/udp/239.192.67.227:49220
+http://175.200.4.20:9981/stream/channelid/13?ticket=9E082EAD6EA545216A305034EC86DE946F18489A
 
 #EXTINF:-1 group-title="대한민국", OCN Movies2 
-http://180.69.60.42:8856/udp/239.192.67.228:49220
+http://175.200.4.20:9981/stream/channelid/17?ticket=1EABDF9B22458C51ACA592C463A57D0DBC3CE7B0
 
 
 #EXTINF:-1 group-title="대한민국" MBN+ , MBN플러스
@@ -116,10 +116,12 @@ https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C22041&q=defa
 #EXTINF:-1 group-title="대한민국", YTN2 
 https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m3u8?sgn.pf=chrome_2.17.30_hlsjs&sgn.osn=windows&sgn.osv=10&sgn.brn=Chrome&sgn.brv=145.0.0.0&sgn.pln=Hls.js&sgn.plv=2.17.30&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzIyNzYwMjIsInN1YiI6Ii95dG53LyoiLCJ2eHIiOjkxMCwiZHJtIjpmYWxzZSwid21pIjoiIiwic2NjIjoiQ1NTRDAxMDAiLCJvc2MiOiJDU09EMDkwMCIsImRtdCI6InN0IiwiaXNwIjoiTEcgVXBsdXMiLCJtZGwiOiJ3aW5kb3dzX2Nocm9tZV8xNDUuMC4wLjAifQ.SZ3jfYbFcMIdTyF-sU7X_kfuje9MCp3IkDG3e4OF7ZM&ads.asn=17858&ads.channel_code=C01101&ads.floor_price=7900&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=300624398&ads.program_code=P07649&ads.targeting=0&ads.tier_code=PREMIUM&ads.tier_group=non_tier
 
-#EXTINF:-1 group-title="대한민국", YTN Science 
+#EXTINF:-1 group-title="대한민국", YTN사이언스 
+
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
+
 
 
 
