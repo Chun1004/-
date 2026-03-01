@@ -42,19 +42,13 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave3.east.c
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave4.east.ca.m3u8
 
 
-
-#EXTINF:-1 group-title="" , HBO Canada 1
-https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/hbo.ca.m3u8
-
-#EXTINF:-1 group-title=""  , HBO Canada West
-https://tv4.live/api/stream/vpnsharknet@gmail.com/089465/livetv.epg/hbo.west.us.m3u8
-
 #EXTINF:-1 group-title=""  , Love Nature 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/love.nature.ca.m3u8
 
 
 #EXTINF:-1 group-title="" , Weather Network (CWEA)
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/weather.network.ca.m3u8
+
 
 
 
