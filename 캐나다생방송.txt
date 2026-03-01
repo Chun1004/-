@@ -6,7 +6,7 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/cbc.cbrt.calg
 #EXTINF:-1 group-title=""  , CBC News Network
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="", CityNews 680
+#EXTINF:-1 group-title="", CityNews 680 ca2
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
 #EXTINF:-1 group-title="" , CTV Calgary 
@@ -18,7 +18,7 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv2.alberta.
 #EXTINF:-1 group-title="", GLOBAL Calgary 
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/global.cict.calgary.ab.ca.m3u8
 
-#EXTINF:-1 group-title="", GLOBAL Calgary News
+#EXTINF:-1 group-title="", GLOBAL Calgary ca2
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 
 
@@ -48,6 +48,7 @@ https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/love.nature.c
 
 #EXTINF:-1 group-title="" , Weather Network (CWEA)
 https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/weather.network.ca.m3u8
+
 
 
 
