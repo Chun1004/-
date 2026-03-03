@@ -41,7 +41,7 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgo
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="대한민국", JTBC Golf
-http://180.69.60.42:8856/udp/239.192.67.165:49220
+
 
 #EXTINF:-1 group-title="대한민국", JTBC Golf&Sports 
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
@@ -72,7 +72,7 @@ http://koreatv.dothome.co.kr/kbsstory.php
 http://koreatv.dothome.co.kr/kbsjoy.php
 
 #EXTINF:-1 group-title="대한민국", MBC every1
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
+
 
 #EXTINF:-1 group-title="대한민국", SBS Plus
 http://koreatv.dothome.co.kr/sbsplus.php
@@ -92,10 +92,10 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 http://43.137.43.57/get_channel.php?channel=ocn
 
 #EXTINF:-1 group-title="대한민국", OCN Movies 
-http://175.200.4.20:9981/stream/channelid/13?ticket=9E082EAD6EA545216A305034EC86DE946F18489A
+
 
 #EXTINF:-1 group-title="대한민국", OCN Movies2 
-http://175.200.4.20:9981/stream/channelid/17?ticket=1EABDF9B22458C51ACA592C463A57D0DBC3CE7B0
+
 
 
 #EXTINF:-1 group-title="대한민국" MBN+ , MBN플러스
@@ -121,18 +121,5 @@ https://sogne-live.tving.com/ytnw/live.smil/medialist_12498461171292152190_hls.m
 
 #EXTINF:-1 group-title="대한민국", Mnet  
 https://sjva.smt520.duckdns.org/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=default&apikey=F9YNTRBJQK
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
