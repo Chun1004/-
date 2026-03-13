@@ -1,0 +1,59 @@
+https://github.com/MyeongJun-Park/iptv/blob/master/korean.m3u
+
+https://github.com/daguanjian/tv-m3u8/blob/main/korea2.m3u8
+
+
+*** 캐나다방송: *** 
+ M3U: 
+https://raw.githubusercontent.com/Chun1004/CANADA/refs/heads/master/%EC%BA%90%EB%82%98%EB%8B%A4?token=GHSAT0AAAAAADWA6UPNJANNNXUT37TS7Z4K2NUR7UQ
+EPG: 
+https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz
+
+
+*** 한국방송: *** 
+ M3U: 
+https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%ED%95%9C%EA%B5%AD%ED%8B%B0%EB%B8%8C?token=GHSAT0AAAAAADWA6UPMLWR7LN2E6DVZJETS2NUR57Q
+EPG: 
+https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz
+
+*** 한국쇼핑: *** 
+https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91?token=GHSAT0AAAAAADWA6UPN4FCWTRQK3ETHGFDC2NUR7AQ
+
+
+
+*** Samsung TV Plus
+ M3U: kr
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_kr.m3u
+ EPG: all
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml
+
+
+*** Plex 
+ M3U: ca
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_ca.m3u
+ EPG: ca
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml
+
+
+* PlutoTV
+ M3U: ca
+https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_ca.m3u
+ EPG: ca
+https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/ca.xml.gz
+
+
+*** Xumo M3U Playlist and EPG Generator: 
+ M3U: 
+https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
+ EPG: 
+https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/playlists/xumo_epg.xml.gz
+
+
+
+*** Tubi
+ M3U: 
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
+ EPG: 
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml
+
+
