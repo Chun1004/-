@@ -3,21 +3,27 @@ https://github.com/MyeongJun-Park/iptv/blob/master/korean.m3u
 https://github.com/daguanjian/tv-m3u8/blob/main/korea2.m3u8
 
 
-*** 캐나다방송: *** 
- M3U: 
+*** 캐나다방송:m3u *** 
 https://raw.githubusercontent.com/Chun1004/CANADA/refs/heads/master/%EC%BA%90%EB%82%98%EB%8B%A4?token=GHSAT0AAAAAADWA6UPNJANNNXUT37TS7Z4K2NUR7UQ
-EPG: 
+
+*** 한국방송:m3u *** 
+https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%ED%95%9C%EA%B5%AD%ED%8B%B0%EB%B8%8C?token=GHSAT0AAAAAADWA6UPMLWR7LN2E6DVZJETS2NUR57Q
+
+*** 한국쇼핑:m3u *** 
+https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91?token=GHSAT0AAAAAADWA6UPN4FCWTRQK3ETHGFDC2NUR7AQ
+
+*** 영화&드라마:m3u *** 
+https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%EC%98%81%ED%99%94%26%EB%93%9C%EB%9D%BC%EB%A7%88?token=GHSAT0AAAAAADWA6UPM24FG5TUQ2M3K3MA62NUSW7A
+
+
+
+*** 캐나다방송:epg *** 
 https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz
 
-
-*** 한국방송: *** 
- M3U: 
-https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%ED%95%9C%EA%B5%AD%ED%8B%B0%EB%B8%8C?token=GHSAT0AAAAAADWA6UPMLWR7LN2E6DVZJETS2NUR57Q
-EPG: 
+*** 한국방송:epg *** 
 https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz
 
-*** 한국쇼핑: *** 
-https://raw.githubusercontent.com/Chun1004/KOREA/refs/heads/main/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91?token=GHSAT0AAAAAADWA6UPN4FCWTRQK3ETHGFDC2NUR7AQ
+
 
 
 
