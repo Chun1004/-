@@ -1,39 +1,64 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="한국쇼핑" hyundai , 현대홈쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.JW0ECIL96IyvHta6xXvw5QAAAA?pid=ImgDet&w=161&h=140&c=7&o=7&rm=3" 삼성티브+ , 현대홈쇼핑 
 http://123.111.139.103:1935/live/hmall.stream/chunklist_w205728486.m3u8
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑" gs shop , GS SHOP 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.r11imHVJlzmIw9b2g3cVBgHaHa?w=108&h=108&c=1&bgcl=eefbcd&r=0&o=7&pid=ImgRC&rm=3" gs shop , GS SHOP 
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑" lotte , 롯데홈쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.GTE3mArq8_VEzy1mItHcawHaEK?w=280&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" lotte , 롯데홈쇼핑 
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑" NS Home , NS홈쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.AO2fmz-kSdwBrAE6b0Za6AAAAA?w=176&h=176&rs=1&pid=ImgDetMain&o=7&rm=3" NS Home , NS홈쇼핑 
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑", CJ온스타일 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.SdRSyDJh3F26sMokP3ng_AHaFk?w=214&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CJ 온스타일
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-;https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="한국쇼핑" Gongyoung , 공영쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.lLf1mgrlXz9F2JEEDiYOMwHaHa?w=108&h=108&c=1&bgcl=2db937&r=0&o=7&pid=ImgRC&rm=3" Gongyoung , 공영쇼핑 
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑", 홈&쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.mje3aJoSEQPAZdUZ-q58HwHaHa?w=108&h=108&c=1&bgcl=f31ff4&r=0&o=7&pid=ImgRC&rm=3", 홈&쇼핑 
 http://s33.qtcdn.co.kr/media/liveM3U8/idx/88679292/enc/365888297/playlist.m3u8
-https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-https://lb.privatevps.org/play/T8ZPh8YPsWDvRPi8vefGpjvhy1tPSYr08mtoXacB99srFx689LWF5FFVmdS3bSZO
 
-#EXTINF:-1 group-title="한국쇼핑" Shopping NT , 쇼핑엔티 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.VreezxIYVi202CskO8aR4QHaHa?w=108&h=108&c=1&bgcl=279f5c&r=0&o=7&pid=ImgRC&rm=3" Shopping NT , 쇼핑엔티 
 https://live.shoppingntmall.com/live/10011.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑" W shop , W쇼핑
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.DwjzMnCm4j6Dtl0j6hb4QgHaHa?w=108&h=108&c=1&bgcl=e7113c&r=0&o=7&pid=ImgRC&rm=3" W shop , W쇼핑
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 
-#EXTINF:-1 group-title="한국쇼핑" SK Stoa , SK스토아 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.4LQR7zXJCuUXWAtrn0UF7wHaEE?w=108&h=108&c=1&bgcl=d96d01&r=0&o=7&pid=ImgRC&rm=3" SK Stoa , SK stoa 
+http://castcache2.skstoa.com:8080/live/BSHOPPING.daml/playlist.m3u8
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.dVj2u3_4M2hFKVs5rpNdqwHaD4?w=108&h=108&c=1&bgcl=bf0017&r=0&o=7&pid=ImgRC&rm=3" kt , KT알파쇼핑 
+https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.L3pIC2L8FmTJ8CCiu4OL4gHaDx?w=336&h=178&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" Shinsegae , 신세계쇼핑 
+http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
+
+
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.tvPV8e-mYZ-bxzZIUsAMRgAAAA?w=187&h=111&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" 삼성티브+ , 현대홈쇼핑+Shop 
+https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.Kx0jj3HUQy-b3jmWLwTi8wHaFc?w=214&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , GS MY SHOP 
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.vh7k1VnfRfpnuB0EVjMaJwAAAA?w=126&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", LOTTE OneTV 
+http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://img.wavve.com/BMS/Channelimage30/circle/C8302_CircleImg_20220629160012.png" NS shop , NS SHOP+
+http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://www.aplusai.ai/images/shoplogos/cjmall.png", CJ 온스타일플러스
+http://live-ch2.cjmall.net/cjosplus/_definst_/live1/playlist.m3u8
+
+
+
+
+
 http://castcache2.skstoa.com:8080/live/BSHOPPING.daml/playlist.m3u8
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 
@@ -61,4 +86,7 @@ http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 
 #EXTINF:-1 group-title="한국쇼핑", CJ온스타일+ 
 http://live-ch2.cjmall.net/cjosplus/_definst_/live1/playlist.m3u8
-;https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
+https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
+
+
+
