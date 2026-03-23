@@ -1,0 +1,49 @@
+#EXTM3U 
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OIP.vlss2jE-L2mwNm-RFjQ_lwHaBM?w=339&h=60&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CBC Calgary 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CBC News Calgary 
+https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OIP.uctCHX1to3ypiZXNMKCrMwHaD4?w=317&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CityNews Calgary 
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OIP.F6TM6aykzdsm2DKlxF04UgAAAA?w=129&h=150&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CTV Calgary 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.J9TSN4RCsiuhMzmtpzDYNgHaHa?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3", CTV Two Alberta  
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/ctv2.alberta.ca.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.4ceiij2SRfbqresYhtGGKAHaHa?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3", GLOBAL Calgary 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/global.cict.calgary.ab.ca.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.2fC3TFa1FauRufcuJ3gMMAAAAA?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3", GLOBAL News Calgary 
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th?id=OIF.r7%2fCvYKgcW3NnJjUTdpxgg&w=294&h=182&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", GOLF Channel  
+https://tvnow.best/api/stream/mikee.kathryn@yahoo.com/97455/livetv.epg/golf.channel.canada.ca.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" 삼성티브+ , PGA Tour
+https://jmp2.uk/stvp-KRBD3100007WB
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OIP.c3gLhfcFE1dWYt9bbRh3zQHaHI?w=180&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", Crave1
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave1.east.ca.m3u8
+ 
+#EXTINF:-1 group-title="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.k7SwegDNimdoLd9C085FEgAAAA?cb=thfc1&pid=ImgDet&w=177&h=177&c=7&o=7&rm=3", Crave2
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave2.east.ca.m3u8
+ 
+#EXTINF:-1 group-title="" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.cz2QnC3Vap6VBEMml4NB2QHaHL?cb=thfc1&pid=ImgDet&w=203&h=196&c=7&o=7&rm=3", Crave3 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave3.east.ca.m3u8
+ 
+#EXTINF:-1 group-title="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.rCGQtNKxDJy53u4SzAiPLwHaHN?cb=thfc1&pid=ImgDet&w=203&h=198&c=7&o=7&rm=3", Crave4
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/crave4.east.ca.m3u8
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GbUyLbm7VHcNPZj2SBBsBQAAAA?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3", Love Nature 
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/love.nature.ca.m3u8
+
+
+#EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/ODF.3lQCaiJvk4bJwHTBdEh_fQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2", Weather Network (CWEA)
+https://tvnow.best/api/stream/jimk5161@gmail.com/740864/livetv.epg/weather.network.ca.m3u8
