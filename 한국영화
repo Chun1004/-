@@ -10,6 +10,9 @@
 #EXTINF:-1 group-title="한국영화" tvg-logo="" , 
 
 
+#EXTINF:-1 group-title="한국영화" tvg-logo="" , 
+
+
 #EXTINF:-1 group-title="한국영화" tvg-logo="https://fvideostream.com/uploads/movie/2504/poster/SasBZ29L0JqDB2BV2aasbdp64fKC5rGLMs2g12NZ.jpg" , 설계자 (2024)
 https://noonoo-e120.b-cdn.net/251003/13e01fd49ac7169ddfbf4c6d8c379a585db06dddc0d5a1e3f2d8b3ac0259f467.mp4
 
@@ -386,10 +389,10 @@ https://vv.jisuzyv.com/play/9avO0gXb/index.m3u8
 #EXTINF:-1 group-title="한국영화" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0417/18_12_57__6800c6195c8a0[X120,120].jpg", 영동선 (2025)
 https://vv.jisuzyv.com/play/oeEDEvKd/index.m3u8
 
-#EXTINF:-1 group-title="한국영화" tvg-logo="https://play.ly166.com:65/videos/20250530/68398d5980eee9b955aa86fa/983274/index.m3u8", 이 별에 필요한 (2025)
+#EXTINF:-1 group-title="한국영화" tvg-logo="https://www.themoviedb.org/t/p/w1280/d4FW6oahDeHt2Bpv1baNOJAfRR4.jpg", 이 별에 필요한 (2025)
 https://europe.olemovienews.com/ts4/20250530/ndyyg7le/mp4/ndyyg7le.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="한국영화" tvg-logo="https://www.imgurll.ggvip.click/i/2025/05/08/511685.webp", 승부 (2025)
+#EXTINF:-1 group-title="한국영화" tvg-logo="https://image.cine21.com/resize/cine21/poster/2025/0326/11_24_08__67e365487a550[X280,400].jpg", 승부 (2025)
 https://europe.olemovienews.com/ts4/20250507/3iipj06j/mp4/3iipj06j.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="한국영화" tvg-logo="https://static.olelive.com/upload/vod/20250204-1/a98b70a2445955b64612c20c6c18a7af.jpg",보고타 (2025)
@@ -418,6 +421,3 @@ https://noonoo-e120.b-cdn.net/251007/2bd9bfd2a9ce7c901ebf1b825a0b8362f46f5237583
 
 #EXTINF:-1 group-title="한국영화" tvg-logo="https://image.cine21.com/resize/cine21/poster/2006/0608/M0010034_hanbando[X280,400].jpg" , 한반도 (2006)
 https://noonoo-e120.b-cdn.net/251006/d5afbf65f6c37c3e9f6f4f9604c23cd0b0c2694224ec74ea1502d5ccd9f73ebf.mp4
-
-
-
