@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/kr.xml.gz"
+
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png", KBS1
 http://43.137.43.57/get_channel.php?channel=kbs1
@@ -22,7 +23,7 @@ http://koreatv.dothome.co.kr/sbs.php
 http://43.137.43.57/get_channel.php?channel=mbn
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.yDJ2-BjnIek9UzOeYqhTiQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3", tvN 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png", tvN 
 http://43.137.43.57/get_channel.php?channel=tvn
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
@@ -35,7 +36,7 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37Q
 http://43.137.43.57/get_channel.php?channel=channela
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/ODF.1P95dq_isLYzveFfZvD0jQ?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" 삼성티브+ , TV조선 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" 삼성티브+ , TV조선  
 http://43.137.43.57/get_channel.php?channel=tvchosun
 https://jmp2.uk/stvp-KR3700002JT
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvchosun_540&sid=fKZsnPIjdoVZrjIWsqL5dPcQwba75T2ANFPAQIih&secret=18d00e092d1f8fa5a6107f0328ff4972&time=1742500050
@@ -46,9 +47,9 @@ https://3dfca2f30b3748309f76481c22234317.mediatailor.ap-northeast-1.amazonaws.co
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-smxexj48frsds/ytn/master/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" 삼성티브+ , 연합뉴스TV
-http://43.137.43.57/get_channel.php?channel=yna
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://th.bing.com/th/id/R.4cdb0024b92868ecbbfb498610b7a265?rik=X%2byAJvP8XoSNpw&riu=http%3a%2f%2fmonthly.chosun.com%2fup_fd%2fMdaily%2f2021-11%2fbimg_thumb%2fyon.jpg&ehk=mQguU1WtMbkOzU%2b4JWAHYJ6U4FnZzpA2X4TkMnALSxQ%3d&risl=&pid=ImgRaw&r=0" 삼성티브+ , 연합뉴스TV
 https://amg01923-amg01923c146-amgplt0456.playout.now3.amagi.tv/playlist/amg01923-amg01923c146-amgplt0456/playlist.m3u8?url=https%3A%2F%2Fwww.ondemandkorea.com%2Fplayer%2Flive%3FchannelId%3D599&genre=News&content_genre=News&ic=IAB12&content_cat=IAB12&content_id=230&content_title=yonhap-news&content_channel=yonhap-news&content_language=ko&us_privacy=1---&gdpr=0&gdpr_consent=0&did=cdaf98a8-3dba-41a0-b760-0ac765383c72&dnt=0&coppa=0&is_lat=0&app_name=OnDemandKorea&app_domain=ondemandkorea.com&app_category=Entertainment&app_bundle=com.ondemandkorea&content_length=3600&content_rating=TV-PG&content_network=odkmedia&content_context=1&content_prodqual=1&device_type=2&ifa_type=dpid&player_width=1920&player_height=1080&livestream=1&custom_9=basic&custom_4=cdaf98a8-3dba-41a0-b760-0ac765383c72&app_store_url=&app_domain=ondemandkorea.com&paln=AQzzBGQEDKLRVHYIF4g_Ij-X4fNQEKwJALRu7v3oC2V13sm8rovBwd5n3ls5pwksPzAsk-3Pg7FFeEmAwqQkq57scruAQE5qDP5C4fqLFIovCoqhG7PS3aH2HwWOk-NemFPOGbsp5Uv2aJnR5gkRAC1R_ugrV6ePrVZP3q4fiM6QMmC4qdhJTw_svHfmkAKXFiGBx0o6G1RTNtBjktu_nxSeB1GoTyIZfRUrQA5o4ZV9jA_S0WJZTMgqiUMlenUcxe-tsfwOoSWU68EaMcZ5ad3KnYvhpNijLGkqPGAsvyQco_FmX1Ji-SjM8xZHgyLl0J1UsE6Ifgb_ziwgKXiHFFJrHZd_L9nNeXU51Yk4gn7dKxFVF_ERX_zKzJv-58H8OVYWQCByUUx_jAwnj1XBBs1ivfix_TPhCJ7nljUl6G1ddj-OsogMz0hkwLufq4u8i5MBR19Dr5cg4d5gx5AyVTpqg3yt1bUjXh87ljJdx2C9HCDPbJ7KmN6SA9gz03Fr6OuQrIUioVZOp5s-JWPFkPHATkq1rnWE8D7VS9d4itMQ49wYPWxiU6ZALLqHG70ooCYCJUmbKPWVSNeC4jEo0aSI9sh6gmHe_EPhdrmjSWJ00sJ510LVFdr4S1p9puVe4vCGOGOvAiq2eMsagFS0sKM-3R58AD4xWgAUJLClB2rF-atSSh_g3K_v7Uax1Z5xvcrBm8ncddKMK4FdYSLyjbKzlCdFzBUoV9z5Cc_292NlzEemBVLOWbA5NhQJ-9U-pz6r2iP1SvZutqkAwFXETSYWkZyeABc5V2cW7xV_VJQoiMI2_v-rVIuT4OzhKkbFQCl2fcnmuBtYy5ZNWPkHXfy9ZSZwoxJKqsWTM-_gExU_bHyXfMZYIifo28ndCqknoTyBXt2lNwK6DnmfA09rWJEiwmWvbW44oCBPgfk1Xv1rQ45GoUwbUOnPdFNOim93AYOAcFaAHs4LO89sdEFShZVVtNL4zK03EBx7TorDrm5yDFMaqRSIoQrpUHMlNXhAzmJyIqZ90STu-girhUmJHdCiB2bttwW92jto1Vx0PD-YbaOkQB0ZTteLJYcq1e7Jjsl-gc3BpzV8YMFHwxhxt4r15UNV406ppjlVFPK7QRorqvoomnuUorTCmyCd2l-zQWXDcMaGs_qXkK4sd8cgq8PxEkO45GG_vKIR4pEb7QvnYAB0DFowtZGN2wM52UZ5gOl5EtxKKXJPlhrfuQMrHCEYrbWiCt2idDWB2WeFNFvF5oFpAZWUYrEdAtxrxITeq5-M0_gQFRg5ob_gklUk9y7Im7bfFcaLDM1zCmTPhfJf1vUIVMd0d31GaMAxfm0WBQ..
+http://43.137.43.57/get_channel.php?channel=yna
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=eaRByMvJw0UctghzvXsaA1xwMxFVZnO9G2f232VS&secret=6c2a394fc34ce9f0d1b6bc1b12e072b1&time=1772753846
 
 
@@ -61,17 +62,17 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=GL5kkVRO
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/zXtzQOTnYt.png", JTBC Golf
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WaD68wOUCwG4X_voaxTD5wHaGZ?pid=ImgDet&w=206&h=177&c=7&o=7&rm=3", JTBC Golf
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/4fCHUaiKzb.png", JTBC GOLF&SPORTS 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg", JTBC GOLF&SPORTS 
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 http://www.hwado.net/webtv/catv/58.php
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.85c200xSFNzyf4DD_y7TowHaEK?pid=ImgDet&w=203&h=114&c=7&o=7&rm=3", SPOTV Golf&Health 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.iEWfydW5evTB5FFCFJ5ZvgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3", SPOTV Golf&Health 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/ODF.lJC7lLalQ0LKuHyo3BgzGA?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" 삼성티브+ ,스크린골프존 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" 삼성티브+ , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
 
@@ -89,7 +90,8 @@ http://koreatv.dothome.co.kr/kbsjoy.php
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LRPM979Lc7.png", KBS Life 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/gsfoWCyRjp.png", KBS 뉴스
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/gsfoWCyRjp.png", KBS 뉴스24
+https://jmp2.uk/stvp-KR5100001TH
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/YCbDNsjUfE.png" , MBC드라마 
@@ -97,7 +99,7 @@ http://koreatv.dothome.co.kr/kbsjoy.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/GqmDQjK6TG.png" , MBC every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
  
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.UPOUiowlY865SF6k92lENgHaEK?w=108&h=108&c=1&bgcl=c107d0&r=0&o=7&pid=ImgRC&rm=3", MBC Net
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbcnet-kr.png", MBC Net
 http://koreatv.dothome.co.kr/mbcnet.php
 
 
@@ -110,21 +112,26 @@ http://koreatv.dothome.co.kr/sbsfune.php
  
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/HBlnICZ4tL.png" , SBS Biz
 http://koreatv.dothome.co.kr/sbsbiz.php
- 
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://play-lh.googleusercontent.com/BAcrHfVyq_6vrbX911bI8Ovp4GdCFObyiGyPM20i4LSmBnchJqgdVGkqEY2PI6yzhv4" 삼성티브+ , SBS 뉴스라이브
+https://jmp2.uk/stvp-KR4500008DI
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.sU4ZdYxpF3WUxEG3gt206wHaD5?w=330&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", tvN DRAMA
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", tvN SHOW
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93FgzI7OGAdeeXCXGw4BXFPzQo&secret=a9025939f2d1e981d2020031a966729e&time=1765893046
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.i7NzTkNjKXyXUinI8wD4jAHaHa?w=108&h=108&c=1&bgcl=90ec1a&r=0&o=7&pid=ImgRC&rm=3", tvN STORY
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png", tvN STORY
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.OPYt5ftAsnNiD4x4F68U6wAAAA?w=223&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" 삼성티브+ , JTBC2
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://gunypost.com/wp-content/uploads/2022/11/jtbc2.png" 삼성티브+ , JTBC2
 https://jmp2.uk/stvp-KR3600001J9
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.CCci88iim1LvmBKwJmAYdQHaFO?w=217&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" 삼성티브+ , JTBC4 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtbc-4-kr.png" 삼성티브+ , JTBC4 
 https://jmp2.uk/stvp-KR3600002ZY
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20250820T005414SQUARE.png" 삼성티브+ , JTBC뉴스
+https://jmp2.uk/stvp-KRBC46000173Y
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://th.bing.com/th/id/OIP.A0rGmojl3vMIoPhTLr8XRQHaHa?w=108&h=108&c=1&bgcl=0cd36f&r=0&o=7&pid=ImgRC&rm=3", JTBC골프레슨 
 https://jmp2.uk/stvp-KRBD5200002XY
@@ -134,6 +141,9 @@ https://jmp2.uk/stvp-KRBD5200002XY
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.apRWfexOihC25u0z5xyumgAAAA?w=152&h=46&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", MBN플러스
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.BPA_aAuvmmEahBOb7tUrswHaFI?w=242&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", 채널A플러스
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4000003J2_20251015T000140SQUARE.png" 삼성티브+ , MBN 뉴스
+https://jmp2.uk/stvp-KRBC4000003J2
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.P43KBohR5aNMlZL1mem3YQHaCD?w=345&h=96&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", TVCHOSUN2
@@ -156,7 +166,7 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=mnet_540&sid=SC46Lwd9aCihIv74PE76o
 
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.qegmVKTk0ESOa577VYXP3QHaCZ?w=302&h=112&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", OCN 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png", OCN 
 http://43.137.43.57/get_channel.php?channel=ocn
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3", OCN Movies 
@@ -166,31 +176,27 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcE
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/meg6UttM5q.png" 삼성티브+ , CJ ENM MOVIE
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000191N_20260224T012008SQUARE.png" 삼성티브+ , CJ ENM MOVIE
 https://jmp2.uk/stvp-KRBC32000191N
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.wL2XMRcQECDK6XTtlkA6PgAAAA?w=108&h=108&c=1&bgcl=f62285&r=0&o=7&pid=ImgRC&rm=3" 삼성티브+ , Genie Movie
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR12000017G_20250827T005929SQUARE.png" 삼성티브+ , Genie Movie
 https://jmp2.uk/stvp-KR12000017G
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/ODF.xD2ICLn_z5NlcYTO5TWoNg?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" 삼성티브+ , Genie 봄맞이 로맨스 특집
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR2000012AI_20260325T012944SQUARE.png" 삼성티브+ , Genie 봄맞이 로맨스 특집
 https://jmp2.uk/stvp-KR2000012AI
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="" 삼성티브+ , PLAYGRAM MOVIES
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200004D1_20250402T010410SQUARE.png" 삼성티브+ , PLAYGRAM MOVIES
 https://jmp2.uk/stvp-KRBC3200004D1
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.6XTYpKpoq0hBJDVxxWjDDwEsEs?w=108&h=108&c=1&bgcl=7e80b0&r=0&o=7&pid=ImgRC&rm=3" 삼성티브+ , 씨네21+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20250402T010104SQUARE.png" 삼성티브+ , 씨네21+
 https://jmp2.uk/stvp-KRBD26000011V
 
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.TEkBc7pG4ou8mG9aHeZr1gHaEK?w=108&h=108&c=1&bgcl=bf93ba&r=0&o=7&pid=ImgRC&rm=3" 삼성티브+ ,KBS 뉴스24
-https://jmp2.uk/stvp-KR5100001TH
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.5Nx7wy1F_FWHhEJ0E59FAAHaHa?w=108&h=108&c=1&bgcl=2f1884&r=0&o=7&pid=ImgRC&rm=3" 삼성티브+ ,SBS No.1 뉴스라이브
-https://jmp2.uk/stvp-KR4500008DI
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.wtNBEQChElW-FWw1tvtSGAHaHa?w=108&h=108&c=1&bgcl=f71fe2&r=0&o=7&pid=ImgRC&rm=3" 삼성티브+ ,MBN 뉴스
-https://jmp2.uk/stvp-KRBC4000003J2
+
+
 
 
 
