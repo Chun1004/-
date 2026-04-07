@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/kr.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png", KBS1
@@ -113,7 +113,7 @@ http://koreatv.dothome.co.kr/sbsfune.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/HBlnICZ4tL.png" , SBS Biz
 http://koreatv.dothome.co.kr/sbsbiz.php
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://play-lh.googleusercontent.com/BAcrHfVyq_6vrbX911bI8Ovp4GdCFObyiGyPM20i4LSmBnchJqgdVGkqEY2PI6yzhv4" 삼성티브+ , SBS 뉴스라이브
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4500008DI_20260325T012845SQUARE.png" 삼성티브+ , SBS 뉴스라이브
 https://jmp2.uk/stvp-KR4500008DI
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.sU4ZdYxpF3WUxEG3gt206wHaD5?w=330&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", tvN DRAMA
@@ -124,10 +124,10 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwj
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png", tvN STORY
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://gunypost.com/wp-content/uploads/2022/11/jtbc2.png" 삼성티브+ , JTBC2
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" 삼성티브+ , JTBC2
 https://jmp2.uk/stvp-KR3600001J9
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtbc-4-kr.png" 삼성티브+ , JTBC4 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" 삼성티브+ , JTBC4 
 https://jmp2.uk/stvp-KR3600002ZY
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20250820T005414SQUARE.png" 삼성티브+ , JTBC뉴스
@@ -146,7 +146,7 @@ https://jmp2.uk/stvp-KRBD5200002XY
 https://jmp2.uk/stvp-KRBC4000003J2
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.P43KBohR5aNMlZL1mem3YQHaCD?w=345&h=96&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", TVCHOSUN2
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://blog.kakaocdn.net/dn/Nj7Um/btqPRBv4fuA/jAZQIqgAp5I8f1THzMixsk/img.jpg", TVCHOSUN2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
 
 
@@ -190,10 +190,6 @@ https://jmp2.uk/stvp-KRBC3200004D1
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD26000011V_20250402T010104SQUARE.png" 삼성티브+ , 씨네21+
 https://jmp2.uk/stvp-KRBD26000011V
-
-
-
-
 
 
 
