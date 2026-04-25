@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz, https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_kr.m3u"
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_kr.m3u
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_ca.m3u
+
+#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz"
 
 
 #EXTINF:-1 channel-id="KR1200002QR" tvg-id="KR1200002QR" tvg-chno="631" tvg-name="<신병> 정주행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20250903T004954SQUARE.png" group-title="드라마",<신병> 정주행
