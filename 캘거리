@@ -1,5 +1,10 @@
 #EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
+https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/
+https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
+
+
+
 #EXTINF:-1 group-title="" tvg-logo="https://th.bing.com/th/id/OIP.d3BA8GcRWrf15WA5I5fh8QHaEK?w=292&h=180&c=7&r=0&o=7&pid=1.7&rm=3", CBC Calgary 
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
 https://m.bm5.co:443/ezm3uplex/x2b4S2y8Ov/62491
@@ -30,7 +35,6 @@ https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/global
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6GfcbZhIyEiGuxVlbMD8wwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3", GOLF Channel 
-http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/18ab2192-64b9-4b6f-b8a2-bf930507c37b.m3u8
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/golf.channel.canada.ca.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" 삼성티브+ , PGA Tour 
