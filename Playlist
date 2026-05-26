@@ -1,5 +1,4 @@
-
-*** 캘거리:m3u *** 
+*** 캐나다방송:m3u *** 
 https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%EC%BA%98%EA%B1%B0%EB%A6%AC
 
 *** 한국티브:m3u *** 
@@ -8,29 +7,60 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 *** 한국쇼핑:m3u *** 
 https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91
 
+*** 생방송:m3u *** 
+https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%EC%83%9D%EB%B0%A9%EC%86%A1
 
 
 
+*** 캐나다방송:epg *** 
+ List:
+https://epgshare01.online/epgshare01/epg_ripper_CA2.txt
+ EPG: 
+https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz
 
-*** Samsung TV Plus
+
+*** 한국방송:epg *** 
+ List:
+https://epgshare01.online/epgshare01/epg_ripper_KR1.txt
+ EPG: 
+https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz
+
+
+*** Samsung TV Plus 
  M3U: kr
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_kr.m3u
- EPG: all
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/all.xml
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_ca.m3u
+ EPG: kr
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/kr.xml
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/ca.xml
 
 
-*** Plex 
+
+
+
+
+
+
+*** PlutoTV
  M3U: ca
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ca.m3u
+ EPG: ca
+https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz
+
+
+
+
+
+
+
+
+* Plex 
+ M3U: 
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_ca.m3u
- EPG: ca
-https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml
+ EPG: 
+https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/ca.xml
 
 
-* PlutoTV
- M3U: ca
-https://raw.githubusercontent.com/BuddyChewChew/pluto/main/pluto_ca.m3u
- EPG: ca
-https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/ca.xml.gz
 
 
 *** Xumo M3U Playlist and EPG Generator: 
@@ -41,10 +71,11 @@ https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/main/pla
 
 
 
-*** Tubi
+* tubi_playlist.m3u: 
  M3U: 
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
  EPG: 
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_epg.xml
+
 
 
