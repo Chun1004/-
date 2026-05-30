@@ -144,6 +144,7 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=nfOYdJXzncD8l
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" 삼성티브+ , MBN 
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" 삼성티브+ , MBN 
+https://jmp2.uk/stvp-KR22000066Q
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png", tvN 
