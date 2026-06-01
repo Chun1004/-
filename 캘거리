@@ -5,7 +5,8 @@
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/cbc.cbrt.calgary.ab.ca.m3u8
 https://m.bm5.co:443/ezm3uplex/x2b4S2y8Ov/62491
 
-#EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CBC News Calgary 
+#EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" 삼성티브, CBC News Calgary
+https://jmp2.uk/stvp-CA4600010PN
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png",  Citytv Calgary 
