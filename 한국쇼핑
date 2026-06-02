@@ -4,6 +4,7 @@
 #EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://kmug.co.kr/data/file/design/data_logo_hmall1.jpg" 삼성티브+ , 현대홈쇼핑 
 http://123.111.139.103:1935/live/hmall.stream/chunklist_w205728486.m3u8
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+https://jmp2.uk/stvp-KRAH1801500A
 
 #EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" gs shop , GS SHOP 
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
@@ -46,6 +47,7 @@ http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p
 
 #EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20250402T005602SQUARE.png" 삼성티브+ , 현대홈쇼핑+Shop 
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
+https://jmp2.uk/stvp-KRAH4602000A
 
 #EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" , GS MY SHOP 
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
