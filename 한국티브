@@ -113,6 +113,8 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9Q
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png", KBS Drama
 http://koreatv.dothome.co.kr/kbsdrama.php
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png", KBS Drama
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=paKP8quwQXA1v3f8CDgxH6h7IfCezfoMX4CPYs9i&secret=0f3e15ed586d8b39e2197abcdaa39726&time=1772754511
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/igkepsbes1.png", KBS Story
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/wDwWoPgIRo.png", KBS joy 
