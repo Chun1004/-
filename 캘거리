@@ -1,6 +1,6 @@
 #EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
-#EXTINF:-1 group-title="캘거리" tvg-logo="", movie11
+#EXTINF:-1 group-title="캘거리" tvg-logo="", movie11222
 https://univuw.db27f8c0504d82199d6271960bc65daf.r2.cloudflarestorage.com/kr-movie/2026/260513-Animal-Trainer-HD.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5bc17d56e371dc4c44dab173e53182bb%2F20260701%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260701T052043Z&X-Amz-Expires=14400&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27260513-Animal-Trainer-HD.mp4&X-Amz-Signature=c421c6e7c0d866661fc8b078154b84e1b40211f8264be70bf7867eca7669454f
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="", 뷰티풀 마인드14
