@@ -94,6 +94,9 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" 삼성티브+ ,스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://imgcdn.cloudrsst.com:944/channels/thumbs/0d912b2aa8819c19c555449d52195669.png" MyeongJun-Park ,BilliardsTV 
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
+
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png", OCN 
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
