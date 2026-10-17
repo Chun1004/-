@@ -19,8 +19,6 @@ https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2.m3u8] , tvN 
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2.m3u8] , tvN 
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [korea2.m3u8] , JTBC 
@@ -85,28 +83,22 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png" [korea2.m3u8] , KBS Drama
-http://koreatv.dothome.co.kr/kbsdrama.php
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/igkepsbes1.png" [korea2.m3u8] , KBS Story
-http://koreatv.dothome.co.kr/kbsstory.php
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/gsfoWCyRjp.png" [삼성티브] , KBS24
+https://jmp2.uk/stvp-KR5100001TH
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/wDwWoPgIRo.png" [korea2.m3u8] , KBS joy 
 http://koreatv.dothome.co.kr/kbsjoy.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LRPM979Lc7.png" [korea2.m3u8] , KBS Life 
 http://koreatv.dothome.co.kr/kbslife.php
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/gsfoWCyRjp.png" [삼성티브] , KBS 뉴스24
-https://jmp2.uk/stvp-KR5100001TH
-
-#EXTINF:-1 group-title="대한민국" tvg-logo="" [korea2.m3u8] , MBC ON
-http://43.137.43.57/get_channel.php?channel=mbc_on
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=eTTqEJ0bwgsl4WbHyEWCbu1C6Rs7ntHJaCUcq09S&secret=56c57029ef6aa1e04a3895d8b6c91506&time=1765893385
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/igkepsbes1.png" [korea2.m3u8] , KBS Story
+http://koreatv.dothome.co.kr/kbsstory.php
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png" [korea2.m3u8] , KBS Drama
+http://koreatv.dothome.co.kr/kbsdrama.php
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" [korea2.m3u8] , SBS Plus
 http://43.137.43.57/get_channel.php?channel=sbs_plus
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=PSGAnCYbuV5h5n957kwavdsTd1M9EtFZwsixuxcN&secret=703094f919241535d243917621af3c53&time=1765893212
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [korea2.m3u8] , tvN SHOW
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93FgzI7OGAdeeXCXGw4BXFPzQo&secret=a9025939f2d1e981d2020031a966729e&time=1765893046
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" [삼성티브] , tvN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
