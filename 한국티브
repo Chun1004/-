@@ -8,7 +8,6 @@ http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" [korea2.m3u8] , MBC 
 http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
-http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [korea2.m3u8] , SBS 
 http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
@@ -18,15 +17,14 @@ https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [korea2.m3u8] , MBN 
 http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
-https://jmp2.uk/stvp-KR22000066Q
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2.m3u8] , tvN 
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2.m3u8] , tvN 
 https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [korea2.m3u8] , JTBC 
 http://218.98.50.141:8088/live/JTBC.m3u8
-https://jmp2.uk/stvp-KR2200003VB
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [korea2.m3u8] , 채널A
 http://124.222.153.240/kakaotv/get_channel.php?channel=channela
@@ -41,9 +39,9 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=ytn
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" [삼성티브] , 연합뉴스 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" [korea2.m3u8] , 연합뉴스 
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792214521/ei/mbHSavLMKcaEt7EPv6v1mQ4/ip/184.64.31.147/id/6QZ_qc75ihU.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-ni5f-ttj6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/bui/AWzQHwpyneeAewJWXseqqk7MRGajEDxM1coLGrrxVjuLXW9i-ui3T6sG6lU07ER_CpT6l9BJHA/spc/mpRQ_-b7xibj95S1TAXUUiE6QYn4oViml0KN6CzQiNWIgaT0AkcDOCJemTMP/vprv/1/ns/Rfo4VH-_QwEZ2A1npHLhO-UZ/reg/0/playlist_type/DVR/initcwndbps/4335375/met/1792192922,/mh/Ku/mm/44/mn/sn-ni5f-ttj6/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,52184231,52227521,52279443/n/FIAqx-Y5BOdaKWrh/mt/1792192364/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRQIhAMHNPxo2ojz54FoSwm9LE6Czr_zvHnT3peGpf9smSPfSAiAtm6LV5l-bY-Xvy3Q1Z94dZf5DTVIcqLCVpXGq-FgHZw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAKsiYqucYw12QA3SSlUGTSIgNCelOx_KKAlstq34zq9LAiAvsagmQxbIg3vDXuOuSX93qYYrbiPUQQMwfuRc8sfP6g%3D%3D/playlist/index.m3u8
-https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTIyNjk5MTEsInBhdGgiOiIvbzIifQ.woMRUpRyoV3tMenQjtNqg5v0WPWHKRToa2del0Ih8oU
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" [삼성티브] , 연합뉴스 
 https://jmp2.uk/stvp-KRBD1400001ED
 
 
@@ -52,9 +50,9 @@ https://jmp2.uk/stvp-KRBD1400001ED
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png" [korea2.m3u8] , SBS Golf2 
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png" [korea2.m3u8, korean.m3u] , SBS Golf2 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WaD68wOUCwG4X_voaxTD5wHaGZ?pid=ImgDet&w=206&h=177&c=7&o=7&rm=3" [korea2.m3u8] , JTBC Golf
 http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
@@ -82,11 +80,9 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [korea2.m3u8] , OCN Movies 
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.wKt1wBBtMnsdCe1J-f01aAAAAA?w=125&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [korea2.m3u8] , OCN Movies2 
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png" [korea2.m3u8] , KBS Drama
