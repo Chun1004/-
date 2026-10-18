@@ -1,0 +1,211 @@
+실행중
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
+
+
+
+
+
+
+#EXTINF:-1 group-title="대한민국" Wavve K01, KBS1
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=default&apikey=KSSYAN7301
+#EXTINF:-1 group-title="대한민국" Wavve K02, KBS2 
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=default&apikey=KSSYAN7301
+#EXTINF:-1 group-title="대한민국" Wavve M01, MBC  
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=default&apikey=KSSYAN7301
+#EXTINF:-1 group-title="대한민국" Wavve S01, SBS 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S01&apikey=SUHO421143
+
+#EXTINF:-1 group-title="대한민국" Wavve C2401, MBN 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2401&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve C2501, 채널A 
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default&apikey=KSSYAN7301
+#EXTINF:-1 group-title="대한민국" Wavve C2601, TV조선 
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default&apikey=KSSYAN7301
+#EXTINF:-1 group-title="대한민국" Wavve C2101, YTN 
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=C2101&q=default&apikey=KSSYAN7301
+#EXTINF:-1 group-title="대한민국" Wavve Y01, 연합뉴스 
+http://59.19.146.221:9999/klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default&apikey=KSSYAN7301
+
+#EXTINF:-1 group-title=""Wavve" , tvN 
+#EXTINF:-1 group-title=""Wavve" , JTBC 
+
+#EXTINF:-1 group-title="대한민국" Wavve S05, SBS GOLF 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S05&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve S12, SBS GOLF2
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S12&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve , JTBC GOLF 
+
+#EXTINF:-1 group-title="대한민국" Wavve K04, KBS Joy 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=K04&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve M03, MBC Every1 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=M03&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S03, SBS Plus 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S03&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve C2402, MBN+ 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2402&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2502,  채널A+
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2502&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2602, TV조선2 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2602&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve H01, PLAYY웰메이트 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=H01&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve H02, PLAYY프리미엄
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=H02&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve H07, PLAYY액션영화 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=H03&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve H05, 시네마천국 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=H05&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve F2501, THE MOVIE  
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=F2501&apikey=SUHO421143
+
+#EXTINF:-1 group-title="대한민국" Wavve K06, KBS DRAMA 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve M02, MBC DRAMA  
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve K05, KBS Life 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=K05&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve K09, KBS Story 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=K09&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve M06, MBC M 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S09, SBS M
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S09&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S04, SBS FunE
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S04&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S06, SBS Biz
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S06&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S22, SBS F!L 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S22&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve X01, EDGE 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=X01&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve X02, FUN TV 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=X02&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C5101, AsiaN 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C5102, AsiaM
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5102&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C5501, 채널J
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5501&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C3901, 채널W
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C3901&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C6901, 폴라리스TV 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C6901&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C8101, 위라이크 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C8401, 채널차이나  
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C8701, 텔레노벨라 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C8701&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C5901, HISTORY 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5901&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C5902, LIFETIME 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5902&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve E01, EBS 1
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=E01&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve E07, EBS 2
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=E07&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve A01, ANIMAX 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve E05, EBS 키즈 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=E05&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C4401, ANIMAX
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4401&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C4402, ANIONE
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4402&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve M06, MBC 라디오스타 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=M12&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S23, SBS 강심장 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S23&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S25, SBS 골목식당 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S25&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S17, SBS 미우새 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S17&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve S20, SBS 스브스갓드
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=S20&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2402, MBN 실제상황
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2412&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2503, 채널A 건강
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2503&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2504, 채널A 예능
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2504&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2503, 채널A 나는몸신이다
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2503&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C2604, TV조선 골프왕
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C2604&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve C4001, Discovery 블랙: 악마를 보았다
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4001&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve F1211, ORIGINAL 로코
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1211&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1215, ORIGINAL 생존
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1215&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1214, ORIGINAL 청춘
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1214&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1212, ORIGINAL 학원
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1212&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1221, ORIGINAL 로맨스
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1221&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1220, ORIGINAL 코미디
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1220&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1218, ORIGINAL 아이돌
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1218&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1217, ORIGINAL 어른멜로
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1217&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1213, ORIGINAL 스포츠예능
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1213&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1216, ORIGINAL 블랙코미디 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1216&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1223, Wavve 아시아드라마
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1223&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="대한민국" Wavve F1222, Wavve에서 오늘 뭐보지 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F1222&q=default&apikey=HEIBW1CDXJ
+
+#EXTINF:-1 group-title="대한민국" Wavve F2402, 카카오TV 예능 24시 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F2402&q=default&apikey=HEIBW1CDXJ
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="한국쇼핑" Wavve C4101, 현대홈쇼핑 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C4102, 현대홈쇼핑+샵 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C4201, GS SHOP 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4201&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C4202, GS MY SHOP 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4202&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C4801, 신세계쇼핑 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C4901, 쇼핑NT
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C4901&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C5601, 롯데홈쇼핑 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5601&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C5602, 롯데one티비 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C5602&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C8301, NS홈쇼핑 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=C8301&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve C8302, NS홈쇼핑+ 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F2701&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve F2701, SK stoa 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F2701&q=default&apikey=HEIBW1CDXJ
+#EXTINF:-1 group-title="한국쇼핑" Wavve F1401, KT알파쇼핑 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=F1401&apikey=SUHO421143
+#EXTINF:-1 group-title="한국쇼핑" Wavve F6901, 공영홈쇼핑 
+https://ssjva.gmoons.org/klive/api/url.m3u8?m=url&s=wavve&i=F6901&q=default&apikey=HEIBW1CDXJ
+
+
+
+
+
