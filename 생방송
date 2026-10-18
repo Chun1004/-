@@ -31,11 +31,10 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/92.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png", Sky Sports Golf 
-
+https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" 삼성티브+ , PGA Tour 
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
-https://jmp2.uk/stvp-KRBD3100007WB
 
 
 
@@ -161,152 +160,8 @@ https://jmp2.uk/stvp-KRBD5200002XY
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="생방송" tvg-logo="https://kmug.co.kr/data/file/design/data_logo_hmall1.jpg" 삼성티브+ , 현대홈쇼핑 
 http://123.111.139.103:1935/live/hmall.stream/chunklist_w205728486.m3u8
-https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" gs shop , GS SHOP 
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
@@ -319,19 +174,15 @@ http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.SdRSyDJh3F26sMokP3ng_AHaFk?w=214&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CJ 온스타일
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
-https://img.cjnews.cj.net/wp-content/uploads/2022/02/cjonstyle_press_20220208_02-1.jpg
-
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.lLf1mgrlXz9F2JEEDiYOMwHaHa?w=108&h=108&c=1&bgcl=2db937&r=0&o=7&pid=ImgRC&rm=3" Gongyoung , 공영쇼핑 
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/uO31gOrwWP.png" , 홈&쇼핑 
 http://s33.qtcdn.co.kr/media/liveM3U8/idx/88679292/enc/365888297/playlist.m3u8
-https://s30.qtcdn.co.kr/media/liveM3U8/idx/484074138/enc/1790577012/playlist.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.VreezxIYVi202CskO8aR4QHaHa?w=108&h=108&c=1&bgcl=279f5c&r=0&o=7&pid=ImgRC&rm=3" Shopping NT , 쇼핑엔티 
 https://live.shoppingntmall.com/live/10011.m3u8
-https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_519_3CA51C10.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.DwjzMnCm4j6Dtl0j6hb4QgHaHa?w=108&h=108&c=1&bgcl=e7113c&r=0&o=7&pid=ImgRC&rm=3" W shop , W쇼핑
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
@@ -361,61 +212,6 @@ http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cj-onstyleplus-kr.png", CJ 온스타일플러스
 http://live-ch2.cjmall.net/cjosplus/_definst_/live1/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
