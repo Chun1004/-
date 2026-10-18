@@ -28,34 +28,27 @@ https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.co
 http://218.98.50.141:8088/live/JTBC.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [korea2.m3u8] , 채널A
-http://124.222.153.240/kakaotv/get_channel.php?channel=channela
-
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [korea2.m3u8] , TV조선  
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
-https://jmp2.uk/stvp-KR3700002JT
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2601&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/cbUaX7kImX.png"  [korea2.m3u8] , YTN 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2101&apikey=SUHO421143
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" [삼성티브] , 연합뉴스 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
-https://jmp2.uk/stvp-KRBD1400001ED
 
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" [korea2.m3u8] , SBS Golf 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png" [korea2.m3u8, korean.m3u] , SBS Golf2 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WaD68wOUCwG4X_voaxTD5wHaGZ?pid=ImgDet&w=206&h=177&c=7&o=7&rm=3" [korea2.m3u8] , JTBC Golf
-http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
-
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" [korea2.m3u8] , JTBC SPORTS 
 http://www.hwado.net/webtv/catv/58.php
@@ -72,29 +65,40 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png" [korea2.m3u8] , OCN 
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1TIWnlZxSFNn2ij2D50BdXO0q6AS&secret=aa35da20dba3436b85fd34d6b4d8f910&time=1772754670
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [korea2.m3u8] , OCN Movies 
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.wKt1wBBtMnsdCe1J-f01aAAAAA?w=125&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [korea2.m3u8] , OCN Movies2 
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/gsfoWCyRjp.png" [삼성티브] , KBS24
 https://jmp2.uk/stvp-KR5100001TH
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/wDwWoPgIRo.png" [korea2.m3u8] , KBS joy 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K04&apikey=SUHO421143
 http://koreatv.dothome.co.kr/kbsjoy.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LRPM979Lc7.png" [korea2.m3u8] , KBS Life 
 http://koreatv.dothome.co.kr/kbslife.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/igkepsbes1.png" [korea2.m3u8] , KBS Story
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K09&apikey=SUHO421143
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png" [korea2.m3u8] , KBS Drama
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K06&apikey=SUHO421143
 http://koreatv.dothome.co.kr/kbsdrama.php
 
+#EXTINF:-1 group-title="대한민국" Wavve M02, MBC DRAMA  
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M02&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve M03, MBC Every1 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
+
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" [korea2.m3u8] , SBS Plus
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S03&apikey=SUHO421143
 http://43.137.43.57/get_channel.php?channel=sbs_plus
+
+
+
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [korea2.m3u8] , tvN SHOW
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
