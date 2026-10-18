@@ -3,7 +3,9 @@
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [korea2.m3u8] , KBS1
 http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [korea2.m3u8] , KBS2
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [korea2.m3u8] , KBS2 
+http://sho0tyz.i234.me:9981/stream/channelid/361208385?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K02&apikey=SUHO421143
 http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" [korea2.m3u8] , MBC 
