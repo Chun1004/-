@@ -2,16 +2,16 @@
 #EXTM3U  url-tvg="https://github.com/globetvapp/epg/blob/main/Korea/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
 
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [삼성티브] , CBC News Calgary
+#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CBC News Calgary
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png",  Citytv Calgary 
 
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://www.elliotttreefarm.ca/wp-content/uploads/2024/12/citynews.jpg" [iptv/streams/ca.m3u] , CityNews Calgary 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://www.elliotttreefarm.ca/wp-content/uploads/2024/12/citynews.jpg" , CityNews Calgary 
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.F6TM6aykzdsm2DKlxF04UgAAAA?w=129&h=150&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [iptvcat.com] , CTV Calgary 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.F6TM6aykzdsm2DKlxF04UgAAAA?w=129&h=150&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CTV Calgary 
 
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://yt3.ggpht.com/-Jb3mz0jXC2g/AAAAAAAAAAI/AAAAAAAAAAA/nTl3a-ot_Hs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", CTV News Channel 
@@ -23,7 +23,7 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 #EXTINF:-1 group-title="생방송" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.4ceiij2SRfbqresYhtGGKAHaHa?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3", Global Calgary 
 http://xtreamview.net:80/play/R2o3cVYQEBLs_y1Iq-jXi_p75b3y56ggVQTUcojH7TA
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.2fC3TFa1FauRufcuJ3gMMAAAAA?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3" [iptvcat.com] , Global News Calgary 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.2fC3TFa1FauRufcuJ3gMMAAAAA?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3" , Global News Calgary 
 https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.6GfcbZhIyEiGuxVlbMD8wwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3", GOLF Channel 
@@ -32,7 +32,7 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/92.m3u8
 #EXTINF:-1 group-title="생방송" tvg-logo="https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png", Sky Sports Golf 
 https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" 삼성티브+ , PGA Tour 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" , PGA Tour 
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
 
