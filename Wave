@@ -24,14 +24,18 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2101&apikey=SUHO42
 #EXTINF:-1 group-title="대한민국" Wavve Y01, 연합뉴스 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
 
-#EXTINF:-1 group-title=""Wavve" , tvN 
-#EXTINF:-1 group-title=""Wavve" , JTBC 
+
+#EXTINF:-1 group-title=""대한민국" [tving] , tvN 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO421143
+#EXTINF:-1 group-title=""대한민국" [tving] , JTBC 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" , JTBC GOLF 
+
 
 #EXTINF:-1 group-title="대한민국" Wavve S05, SBS GOLF 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S05&apikey=SUHO421143
 #EXTINF:-1 group-title="대한민국" Wavve S12, SBS GOLF2
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S12&apikey=SUHO421143
-#EXTINF:-1 group-title="대한민국" Wavve , JTBC GOLF 
 
 #EXTINF:-1 group-title="대한민국" Wavve K04, KBS Joy 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K04&apikey=SUHO421143
