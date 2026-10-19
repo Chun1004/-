@@ -31,6 +31,7 @@ https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.co
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [korea2] , JTBC 
 http://218.98.50.141:8088/live/JTBC.m3u8
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [korea2] , 채널A
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&apikey=SUHO421143
@@ -118,6 +119,9 @@ http://43.137.43.57/get_channel.php?channel=sbs_plus
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [korea2] , tvN SHOW
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [티빙] , tvN SHOW
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" [삼성티브] , tvN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
