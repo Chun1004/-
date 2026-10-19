@@ -3,6 +3,25 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO4211
 
 
 
+#EXTM3U
+
+#EXTINF:-1 group-title=""대한민국" [tving] , tvN 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO421143
+#EXTINF:-1 group-title=""대한민국" [tving] , JTBC 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
+
+#EXTINF:-1 group-title="대한민국" [tving] C07381, OCN 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C07381&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" [tving] C04601, OCN Movies 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C04601&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" [tving] C07382, OCN Movies2 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C07382&apikey=SUHO421143
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="대한민국" Wavve K01, KBS1
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K01&apikey=SUHO421143
@@ -23,14 +42,6 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2601&apikey=SUHO42
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2101&apikey=SUHO421143
 #EXTINF:-1 group-title="대한민국" Wavve Y01, 연합뉴스 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
-
-
-#EXTINF:-1 group-title=""대한민국" [tving] , tvN 
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO421143
-#EXTINF:-1 group-title=""대한민국" [tving] , JTBC 
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
-#EXTINF:-1 group-title="대한민국" , JTBC GOLF 
-
 
 #EXTINF:-1 group-title="대한민국" Wavve S05, SBS GOLF 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S05&apikey=SUHO421143
@@ -211,6 +222,12 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=F2701&apikey=SUHO42
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=F1401&apikey=SUHO421143
 #EXTINF:-1 group-title="한국쇼핑" Wavve F6901, 공영홈쇼핑 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=F6901&apikey=SUHO421143
+
+
+
+
+
+
 
 
 
