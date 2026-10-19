@@ -1,16 +1,19 @@
 #EXTM3U  url-tvg="https://github.com/globetvapp/epg/blob/main/Korea/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [korea2] , KBS1
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [KRTV korea2] , KBS1
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K01&apikey=SUHO421143
+https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [korea2] , KBS2 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [KRTV korea2] , KBS2 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K02&apikey=SUHO421143
-http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
+https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 http://sho0tyz.i234.me:9981/stream/channelid/361208385?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
+http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" [korea2] , MBC 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" [KRTV korea2] , MBC 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&apikey=SUHO421143
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat.com] , SBS 
@@ -34,12 +37,14 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&apikey=SUHO42
 http://124.222.153.240/kakaotv/get_channel.php?channel=channela
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [korea2] , TV조선  
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [KRTV korea2] , TV조선  
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2601&apikey=SUHO421143
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
+http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 https://jmp2.uk/stvp-KR3700002JT
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/cbUaX7kImX.png"  [korea2] , YTN 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/cbUaX7kImX.png"  [KRTV korea2] , YTN 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2101&apikey=SUHO421143
 http://124.222.153.240/kakaotv/get_channel.php?channel=ytn
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
@@ -53,12 +58,12 @@ https://jmp2.uk/stvp-KRBD1400001ED
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" [korea2] , SBS Golf 
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png" [korea2 korean] , SBS Golf2 
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WaD68wOUCwG4X_voaxTD5wHaGZ?pid=ImgDet&w=206&h=177&c=7&o=7&rm=3" [korea2] , JTBC Golf
 http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
@@ -103,6 +108,9 @@ http://koreatv.dothome.co.kr/kbslife.php
 http://koreatv.dothome.co.kr/kbsstory.php
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/6KXvTYh6r6.png" [korea2] , KBS Drama
 http://koreatv.dothome.co.kr/kbsdrama.php
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [KRTV] , MBC every1
+https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-amg01923c84-amgplt0187/playlist.m3u8?url=https%3A%2F%2Fwww.ondemandkorea.com%2Fplayer%2Flive%3FchannelId%3D203&genre=News&content_genre=News&ic=IAB12&content_cat=IAB12&content_id=223&content_title=news-today&content_channel=news-today&us_privacy=1---&gdpr=0&gdpr_consent=0&did=c7e4d738-f47f-49a8-ae7d-bc506ee45559&dnt=0&coppa=0&is_lat=0&app_name=OnDemandKorea&app_domain=ondemandkorea.com&app_category=Entertainment&app_bundle=com.ondemandkorea&content_length=3600&content_rating=TV-PG&content_network=odkmedia&content_context=1&content_prodqual=1&device_type=2&ifa_type=dpid&player_width=1920&player_height=1080&livestream=1&custom_9=guest&custom_4=c7e4d738-f47f-49a8-ae7d-bc506ee45559&app_store_url=&app_domain=ondemandkorea.com&paln=AQzzBGQE2_42cY7yFp1yXBgsxb5tppO2XUejMWS8Jxmflk6wTe4UsoKWbYq5UzD9CdxGjU2TTMKhT73GOMhj0zbAkEUo49HXYoAtVA94zlxIn-433VVVYUKBUgy6EczZc_Y3S1jMBv6EU-1KOQlTAKEGdUGu39CQmNm1suDHMfRotCLJjTvei-hAz6Mz284hISIJlyyjPjc_fYup6C41ROaJ25xi9BF4xVTPVs1V-4PY9nwEj4isl8MQs-WfkIfrohlZUg_6bReWstPtIRnT9RBALEPaWZuFO3LLv3Srp6UU2EVtJRNR4-zFPJWDclD_jS6k7ky8ezmaNg9hTphF2l_MM6eKOtByFdWwUlgF7P39vn2olXM2_XljjmEYtge5qyEs44vhpbA7UeAHay7Df1pK7QnWyNZ5NTlIVAZwE6gFf3d5emDwNCZiue_NhTTypR3S3Ifoyxg3Oh3PHCYueTZadDgsCLxvK_CWGj65GuCfA2dilqE3t0sqloE02iKfxHxFJ9udDb51G4rDeSmMEiE87FWhcDt7I0oWH7oPlvlmS57p9jM3KeUHPjKr-xVvTzUUqdgBrRj7szLiCYkZzX5yH_h2Pj0fAsTBpDRr6s7NblXF0RqRYwxNNqSc3wcwJDIeVxxIuh7aXeLrDPOOKvdrhuAw6cAgebTjVj1tP6WHUS2q5yixuKGA3Pf386zN4AkEnaxVmLGErLKsZ_fJ5iqDkm4YJ-vBGhQEdMySOdLmiC4URdY3YVr0PC-4vFv0ttN4S54pVveRHVh6p1omiWzCZAFvZXY3_wmbDZ9MjX_YUANcpzfCPpWQzIQCYaLS9gD56AmAKPBD-Rds3p2I2KxJE51lQa6yzmygBBZS-IxphcMBDW6sqkG3bKCqVryao3T_9CHCxuuEGWKaPyUQ4SDkx8qtWdeV7ypr5utbg4BFobgxM4RVYLjiYfI6A5YrZDTZxo4zTiUWyscc1_X9-IznqUUZk-U_IuO514I6XqRyy7N2D0PI0jU8MCkDC9NH7CQsff1k6Y9LSCV0ccho8pK2KnfXZ0tkgKP7xzpEswHaY1RL3Z5ydJ73sHdx3X_J_q0I9ll3fmbvklJ9imZWdnjonHURVbgmxqlg7TfIdARlikLHhrJ6pIvQjsn_0ot_bD4IvO2o0vY0Hqd2DAxW-x42fpxRGhiTXWbItF7KVL6wo9U14kgkkyydudZUejYLIbz0
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" [korea2] , SBS Plus
 http://43.137.43.57/get_channel.php?channel=sbs_plus
