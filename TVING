@@ -9,10 +9,16 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO4
 
 #EXTM3U
 
-#EXTINF:-1 group-title="대한민국", KBS1
-#EXTINF:-1 group-title="대한민국", KBS2
-#EXTINF:-1 group-title="대한민국", MBC 
-#EXTINF:-1 group-title="대한민국", SBS  
+#EXTINF:-1 group-title="대한민국" [wavve] , KBS1 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K01&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" [wavve] , KBS2
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K02&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" [wavve] , MBC 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" [wavve] , SBS  
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S01&apikey=SUHO421143
+
+
 
 #EXTINF:-1 group-title="대한민국" tving C00708, MBN 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00708&apikey=SUHO421143
@@ -29,9 +35,9 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO4
 #EXTINF:-1 group-title="대한민국" tving C01582, JTBC 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" tving , SBS Golf 
-#EXTINF:-1 group-title="대한민국" tving , JTBC Golf 
-#EXTINF:-1 group-title="대한민국" tving , JTBC Sports 
+#EXTINF:-1 group-title="대한민국" , SBS Golf 
+#EXTINF:-1 group-title="대한민국" , JTBC Golf 
+#EXTINF:-1 group-title="대한민국" , JTBC Sports 
 
 #EXTINF:-1 group-title="대한민국" tving C51258, tvN STORY 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51258&apikey=SUHO421143
