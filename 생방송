@@ -1,5 +1,5 @@
 
-#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz; https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
 
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CBC News Calgary
@@ -122,7 +122,7 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K06&apikey=SUHO4211
 
 
 
-#EXTINF:-1 group-title="생방송" Wavve M02, MBC DRAMA
+#EXTINF:-1 group-title="생방송" Wavve M02, MBC Drama
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M02&apikey=SUHO421143
 
 #EXTINF:-1 group-title="생방송" Wavve M03, MBC Every1 
