@@ -13,12 +13,10 @@ http://sho0tyz.i234.me:9981/stream/channelid/361208385?auth=Pzt3k0z1Dbjo2Qqt0Py.
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&apikey=SUHO421143
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [korea2.m3u8] , SBS 
-http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
-
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat.com] , SBS 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S01&apikey=SUHO421143
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
+http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [korea2.m3u8] , MBN 
