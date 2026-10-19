@@ -5,20 +5,8 @@
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CBC News Calgary
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png",  Citytv Calgary 
-
-
 #EXTINF:-1 group-title="생방송" tvg-logo="https://www.elliotttreefarm.ca/wp-content/uploads/2024/12/citynews.jpg" , CityNews Calgary 
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.F6TM6aykzdsm2DKlxF04UgAAAA?w=129&h=150&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CTV Calgary 
-
-
-#EXTINF:-1 group-title="생방송" tvg-logo="https://yt3.ggpht.com/-Jb3mz0jXC2g/AAAAAAAAAAI/AAAAAAAAAAA/nTl3a-ot_Hs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", CTV News Channel 
-
-
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.J9TSN4RCsiuhMzmtpzDYNgHaHa?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3", CTV Two Alberta  
-
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.4ceiij2SRfbqresYhtGGKAHaHa?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3", Global Calgary 
 http://xtreamview.net:80/play/R2o3cVYQEBLs_y1Iq-jXi_p75b3y56ggVQTUcojH7TA
@@ -54,8 +42,8 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S01&apikey=SUHO4211
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" , MBN 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2401&apikey=SUHO421143
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" , tvN 
-https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg1y2uft53fob/2474e9fd-8f38-40d0-aca5-cfcfec684660/0.m3u8
+#EXTINF:-1 group-title="생방송" tvg-logo="https://kakotv.com/live/TVN-92.html?secr=" , tvN 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO421143
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" , JTBC 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
@@ -63,7 +51,7 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO4
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" , 채널A
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&apikey=SUHO421143
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" , TV조선  
+#EXTINF:-1 group-title="생방송" tvg-logo="https://kakotv.com/live/TV%20%EC%A1%B0%EC%84%A0-77.html?secr=" , TV조선  
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2601&apikey=SUHO421143
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/cbUaX7kImX.png" , YTN 
@@ -80,7 +68,7 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgo
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png"] , SBS Golf2 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WaD68wOUCwG4X_voaxTD5wHaGZ?pid=ImgDet&w=206&h=177&c=7&o=7&rm=3" , JTBC Golf
+#EXTINF:-1 group-title="생방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" , JTBC Golf
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" , JTBC GOLF&SPORTS
@@ -118,13 +106,13 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K06&apikey=SUHO4211
 
 
 
-#EXTINF:-1 group-title="생방송" Wavve M02, MBC Drama
+#EXTINF:-1 group-title="생방송" tvg-logo="https://kakotv.com/live/MBC%EB%93%9C%EB%9D%BC%EB%A7%88-103.html?secr=" Wavve M02, MBC Drama
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M02&apikey=SUHO421143
 
-#EXTINF:-1 group-title="생방송" Wavve M03, MBC Every1 
+#EXTINF:-1 group-title="생방송" tvg-logo="" Wavve M03, MBC Every1 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" Wavve M06, MBC M 
+#EXTINF:-1 group-title="대한민국" tvg-logo="" Wavve M06, MBC M 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M06&apikey=SUHO421143
 
 
@@ -132,35 +120,35 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M06&apikey=SUHO4211
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" , SBS Plus
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S03&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" Wavve S09, SBS M
+#EXTINF:-1 group-title="대한민국" tvg-logo="" Wavve S09, SBS M
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S09&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" Wavve S04, SBS FunE
+#EXTINF:-1 group-title="대한민국" tvg-logo="" Wavve S04, SBS FunE
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S04&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" Wavve S06, SBS Biz
+#EXTINF:-1 group-title="대한민국" tvg-logo="" Wavve S06, SBS Biz
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S06&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" Wavve S22, SBS F!L 
+#EXTINF:-1 group-title="대한민국" tvg-logo="" Wavve S22, SBS F!L 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S22&apikey=SUHO421143
 
 
 
-#EXTINF:-1 group-title="대한민국" tving C51258, tvN STORY 
+#EXTINF:-1 group-title="대한민국" tvg-logo="" tving C51258, tvN STORY 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51258&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" tving C01141, tvN SHOW
+#EXTINF:-1 group-title="대한민국" tvg-logo="" tving C01141, tvN SHOW
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01141&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" tving C01143, tvN DRAMA
+#EXTINF:-1 group-title="대한민국" tvg-logo="" tving C01143, tvN DRAMA
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO421143
 
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="" , JTBC2
+#EXTINF:-1 group-title="대한민국" tvg-logo="" tvg-logo="" , JTBC2
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C15741&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="" , JTBC4 
+#EXTINF:-1 group-title="대한민국" tvg-logo="" tvg-logo="" , JTBC4 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C22041&apikey=SUHO421143
 
 
