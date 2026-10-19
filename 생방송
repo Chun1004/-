@@ -32,10 +32,6 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/92.m3u8
 #EXTINF:-1 group-title="생방송" tvg-logo="https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png", Sky Sports Golf 
 https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" , PGA Tour 
-https://jmp2.uk/stvp-KRBD3100007WB
-
-
 
 
 
@@ -94,7 +90,7 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 #EXTINF:-1 group-title="생방송" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean.m3u] ,SPOTV Golf+
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] ,스크린골프존 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린
 https://jmp2.uk/stvp-KR44000010Y
 
 
