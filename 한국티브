@@ -16,7 +16,7 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&apikey=SUHO4211
 https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat.com] , SBS 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat] , SBS 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S01&apikey=SUHO421143
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
@@ -89,7 +89,8 @@ http://sho0tyz.i234.me:9981/stream/channelid/1714327810?auth=Pzt3k0z1Dbjo2Qqt0Py
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=BSayDAwe3oRk1TIWnlZxSFNn2ij2D50BdXO0q6AS&secret=aa35da20dba3436b85fd34d6b4d8f910&time=1772754670
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [korea2] , OCN Movies 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [IPTVPlayer korea2] , OCN Movies 
+http://sho0tyz.i234.me:9981/stream/channelid/705683122?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
 
