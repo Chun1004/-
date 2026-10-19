@@ -31,7 +31,7 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO4
 
 #EXTINF:-1 group-title="대한민국" tving , SBS Golf 
 #EXTINF:-1 group-title="대한민국" tving , JTBC Golf 
-#EXTINF:-1 group-title="대한민국" tving , JTBC Golf&Sports 
+#EXTINF:-1 group-title="대한민국" tving , JTBC Sports 
 
 #EXTINF:-1 group-title="대한민국" tving C51258, tvN STORY 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51258&apikey=SUHO421143
