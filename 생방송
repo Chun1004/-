@@ -133,10 +133,13 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO4211
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" , SBS Plus
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S03&apikey=SUHO421143
 
+#EXTINF:-1 group-title="대한민국" tving C51258, tvN STORY 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51258&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" tving C01141, tvN SHOW 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01141&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" tving C01143, tvN DRAMA 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO421143
 
-
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" [삼성티브] , tvN STORY
-https://jmp2.uk/stvp-KRBC3200014XZ
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [삼성티브] , JTBC2
 https://jmp2.uk/stvp-KR3600001J9
