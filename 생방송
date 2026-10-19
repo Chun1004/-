@@ -33,7 +33,7 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/92.m3u8
 https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" , PGA Tour 
-https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+https://jmp2.uk/stvp-KRBD3100007WB
 
 
 
@@ -132,7 +132,6 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO4211
 
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" , SBS Plus
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S03&apikey=SUHO421143
-http://43.137.43.57/get_channel.php?channel=sbs_plus
 
 
 
@@ -159,57 +158,57 @@ https://jmp2.uk/stvp-KRBD5200002XY
 
 
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://kmug.co.kr/data/file/design/data_logo_hmall1.jpg" 삼성티브+ , 현대홈쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://kmug.co.kr/data/file/design/data_logo_hmall1.jpg" 삼성티브+ , 현대홈쇼핑 
 http://123.111.139.103:1935/live/hmall.stream/chunklist_w205728486.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" gs shop , GS SHOP 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" gs shop , GS SHOP 
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://d1vv4p3ixxyri0.cloudfront.net/companies_logo/1f882171fb4e21e2571bf9be5c8cb6f887460477f4d5b329449495f76f1147d1_1572584299874242.jpg" lotte , 롯데홈쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://d1vv4p3ixxyri0.cloudfront.net/companies_logo/1f882171fb4e21e2571bf9be5c8cb6f887460477f4d5b329449495f76f1147d1_1572584299874242.jpg" lotte , 롯데홈쇼핑 
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.AO2fmz-kSdwBrAE6b0Za6AAAAA?w=176&h=176&rs=1&pid=ImgDetMain&o=7&rm=3" NS Home , NS홈쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.AO2fmz-kSdwBrAE6b0Za6AAAAA?w=176&h=176&rs=1&pid=ImgDetMain&o=7&rm=3" NS Home , NS홈쇼핑 
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.SdRSyDJh3F26sMokP3ng_AHaFk?w=214&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CJ 온스타일
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.SdRSyDJh3F26sMokP3ng_AHaFk?w=214&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", CJ 온스타일
 https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.lLf1mgrlXz9F2JEEDiYOMwHaHa?w=108&h=108&c=1&bgcl=2db937&r=0&o=7&pid=ImgRC&rm=3" Gongyoung , 공영쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.lLf1mgrlXz9F2JEEDiYOMwHaHa?w=108&h=108&c=1&bgcl=2db937&r=0&o=7&pid=ImgRC&rm=3" Gongyoung , 공영쇼핑 
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/uO31gOrwWP.png" , 홈&쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://hahatv3.com/data/tv/icons/uO31gOrwWP.png" , 홈&쇼핑 
 http://s33.qtcdn.co.kr/media/liveM3U8/idx/88679292/enc/365888297/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.VreezxIYVi202CskO8aR4QHaHa?w=108&h=108&c=1&bgcl=279f5c&r=0&o=7&pid=ImgRC&rm=3" Shopping NT , 쇼핑엔티 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.VreezxIYVi202CskO8aR4QHaHa?w=108&h=108&c=1&bgcl=279f5c&r=0&o=7&pid=ImgRC&rm=3" Shopping NT , 쇼핑엔티 
 https://live.shoppingntmall.com/live/10011.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.DwjzMnCm4j6Dtl0j6hb4QgHaHa?w=108&h=108&c=1&bgcl=e7113c&r=0&o=7&pid=ImgRC&rm=3" W shop , W쇼핑
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.DwjzMnCm4j6Dtl0j6hb4QgHaHa?w=108&h=108&c=1&bgcl=e7113c&r=0&o=7&pid=ImgRC&rm=3" W shop , W쇼핑
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.4LQR7zXJCuUXWAtrn0UF7wHaEE?w=108&h=108&c=1&bgcl=d96d01&r=0&o=7&pid=ImgRC&rm=3" SK Stoa , SK stoa 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.4LQR7zXJCuUXWAtrn0UF7wHaEE?w=108&h=108&c=1&bgcl=d96d01&r=0&o=7&pid=ImgRC&rm=3" SK Stoa , SK stoa 
 http://castcache2.skstoa.com:8080/live/BSHOPPING.daml/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.dVj2u3_4M2hFKVs5rpNdqwHaD4?w=108&h=108&c=1&bgcl=bf0017&r=0&o=7&pid=ImgRC&rm=3" kt , KT알파쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.dVj2u3_4M2hFKVs5rpNdqwHaD4?w=108&h=108&c=1&bgcl=bf0017&r=0&o=7&pid=ImgRC&rm=3" kt , KT알파쇼핑 
 https://livetv.kshop.co.kr/klive/_definst_/smil:klive.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://img.etoday.co.kr/pto_db/2020/04/600/20200421172230_1451523_750_750.png" Shinsegae , 신세계쇼핑 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://img.etoday.co.kr/pto_db/2020/04/600/20200421172230_1451523_750_750.png" Shinsegae , 신세계쇼핑 
 http://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
 
 
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20250402T005602SQUARE.png" 삼성티브+ , 현대홈쇼핑+Shop 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20250402T005602SQUARE.png" 삼성티브+ , 현대홈쇼핑+Shop 
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/chunklist_b3000000.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" , GS MY SHOP 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://st.kakaocdn.net/shoppingstore/store/20210806133800_fedf7517558742e5ae1e21e0a07e4fb7.jpeg" , GS MY SHOP 
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thf.bing.com/th/id/OIP.vh7k1VnfRfpnuB0EVjMaJwAAAA?w=126&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", LOTTE OneTV 
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://thf.bing.com/th/id/OIP.vh7k1VnfRfpnuB0EVjMaJwAAAA?w=126&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", LOTTE OneTV 
 http://onetvhlslive.lotteimall.com/lotteonetvlive/_definst_/lotteonetvlive.mp4.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://img.etnews.com/photonews/1904/1181126_20190429102523_968_0001.jpg" NS shop , NS SHOP+
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://img.etnews.com/photonews/1904/1181126_20190429102523_968_0001.jpg" NS shop , NS SHOP+
 http://shoppstream.nsmall.com:1935/IPHONE/PC.m3u8
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cj-onstyleplus-kr.png", CJ 온스타일플러스
+#EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cj-onstyleplus-kr.png", CJ 온스타일플러스
 http://live-ch2.cjmall.net/cjosplus/_definst_/live1/playlist.m3u8
 
 
