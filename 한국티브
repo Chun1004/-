@@ -117,25 +117,39 @@ https://amg01923-amg01923c84-amgplt0187.playout.now3.amagi.tv/playlist/amg01923-
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" [korea2] , SBS Plus
 http://43.137.43.57/get_channel.php?channel=sbs_plus
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [korea2] , tvN SHOW
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [티빙 korea2] , tvN SHOW
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO421143
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [티빙] , tvN SHOW
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" [티빙] , tvN STORY
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51258&apikey=SUHO421143
+
+#EXTINF:-1 group-title="대한민국" tving C01143, tvN DRAMA 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" [삼성티브] , tvN STORY
-https://jmp2.uk/stvp-KRBC3200014XZ
+#EXTINF:-1 group-title="대한민국" tving C51404, tvN SPORTS 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51404&apikey=SUHO421143
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [삼성티브] , JTBC2
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [티빙 삼성티브] , JTBC2
 https://jmp2.uk/stvp-KR3600001J9
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [삼성티브] , JTBC4 
+
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [티빙 삼성티브] , JTBC4 
 https://jmp2.uk/stvp-KR3600002ZY
+
+#EXTINF:-1  group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260422T013555SQUARE.png" [티빙 삼성티브] ,JTBC 라이프
+https://jmp2.uk/stvp-KR4000020F
+
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20250820T005414SQUARE.png" [삼성티브] , JTBC 뉴스
 https://jmp2.uk/stvp-KRBC46000173Y
-#EXTINF:-1  group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260422T013555SQUARE.png" [삼성티브] ,JTBC 라이프
-https://jmp2.uk/stvp-KR4000020F
+
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260422T013542SQUARE.png" [삼성티브] , JTBC 골프레슨
 https://jmp2.uk/stvp-KRBD5200002XY
+
+
+
+
+
 
 
 
