@@ -87,7 +87,7 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgol
 #EXTINF:-1 group-title="생방송" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.WaD68wOUCwG4X_voaxTD5wHaGZ?pid=ImgDet&w=206&h=177&c=7&o=7&rm=3" , JTBC Golf
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" , JTBC GOLF&SPORTS 
+#EXTINF:-1 group-title="생방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" , JTBC GOLF&amp;SPORTS
 http://www.hwado.net/webtv/catv/58.php
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 
@@ -125,32 +125,35 @@ http://koreatv.dothome.co.kr/kbsstory.php
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K06&apikey=SUHO421143
 http://koreatv.dothome.co.kr/kbsdrama.php
 
-#EXTINF:-1 group-title="생방송" Wavve M02, MBC DRAMA  
+
+#EXTINF:-1 group-title="생방송" Wavve M02, MBC DRAMA
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M02&apikey=SUHO421143
 #EXTINF:-1 group-title="생방송" Wavve M03, MBC Every1 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M03&apikey=SUHO421143
 
+
 #EXTINF:-1 group-title="생방송" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" , SBS Plus
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S03&apikey=SUHO421143
 
+
 #EXTINF:-1 group-title="대한민국" tving C51258, tvN STORY 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C51258&apikey=SUHO421143
-#EXTINF:-1 group-title="대한민국" tving C01141, tvN SHOW 
+#EXTINF:-1 group-title="대한민국" tving C01141, tvN SHOW
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01141&apikey=SUHO421143
-#EXTINF:-1 group-title="대한민국" tving C01143, tvN DRAMA 
+#EXTINF:-1 group-title="대한민국" tving C01143, tvN DRAMA
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01143&apikey=SUHO421143
 
 
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [삼성티브] , JTBC2
-https://jmp2.uk/stvp-KR3600001J9
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [삼성티브] , JTBC4 
-https://jmp2.uk/stvp-KR3600002ZY
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20250820T005414SQUARE.png" [삼성티브] , JTBC 뉴스
-https://jmp2.uk/stvp-KRBC46000173Y
-#EXTINF:-1  group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260422T013555SQUARE.png" [삼성티브] ,JTBC 라이프
-https://jmp2.uk/stvp-KR4000020F
-#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260422T013542SQUARE.png" [삼성티브] , JTBC 골프레슨
-https://jmp2.uk/stvp-KRBD5200002XY
+#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" , JTBC2
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C15741&apikey=SUHO421143
+
+#EXTINF:-1 group-title="생방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" , JTBC4 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C22041&apikey=SUHO421143
+
+
+
+
+
 
 
 
