@@ -7,7 +7,7 @@ https://jmp2.uk/stvp-CA4600010PN
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [삼성티브 PlutoTV] , CBC News Calgary
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="캘거리" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png",  Citytv Calgary 
+#EXTINF:-1 group-title="캘거리" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png" [] ,  Citytv Calgary 
 
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://www.elliotttreefarm.ca/wp-content/uploads/2024/12/citynews.jpg" iptv/streams/ca.m3u [iptv/streams/ca.m3u iptvcat.com] , CityNews Calgary 
@@ -43,6 +43,7 @@ https://jmp2.uk/stvp-KRBD3100007WB
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" [Public], Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/love.nature.ca.m3u8
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" [Public], TVOKids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
@@ -58,11 +59,11 @@ https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/crave2
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://tse3.mm.bing.net/th/id/OIP.cz2QnC3Vap6VBEMml4NB2QHaHL?cb=thfc1&pid=ImgDet&w=203&h=196&c=7&o=7&rm=3", Crave3 
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/crave3.east.ca.m3u8
 
-#EXTINF:-1 group-title="캘거리" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.rCGQtNKxDJy53u4SzAiPLwHaHN?cb=thfc1&pid=ImgDet&w=203&h=198&c=7&o=7&rm=3", Crave4
+#EXTINF:-1 group-title="캘거리" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.rCGQtNKxDJy53u4SzAiPLwHaHN?cb=thfc1&pid=ImgDet&w=203&h=198&c=7&o=7&rm=3", Crave4 
+http://xtreamview.net:80/play/R2o3cVYQEBLs_y1Iq-jXi-VQXMsu3lkDyL1vv8801G0
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/crave4.east.ca.m3u8
 
-#EXTINF:-1 group-title="캘거리" tvg-logo="https://tse4.mm.bing.net/th/id/OIP.GbUyLbm7VHcNPZj2SBBsBQAAAA?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3", Love Nature 
-https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/love.nature.ca.m3u8
+
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/ODF.3lQCaiJvk4bJwHTBdEh_fQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2", Weather Network (CWEA)
 https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/weather.network.ca.m3u8
@@ -70,4 +71,17 @@ https://tvnow.best/api/stream/Ocotlan0317@gmail.com/Chino1976!/livetv.epg/weathe
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
