@@ -2,10 +2,9 @@
 
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://th.bing.com/th/id/OIP.d3BA8GcRWrf15WA5I5fh8QHaEK?w=292&h=180&c=7&r=0&o=7&pid=1.7&rm=3" [iptvcat.com iptv/streams/ca.m3u] , CBC Calgary 
-
+https://jmp2.uk/stvp-CA4600010PN
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [삼성티브 PlutoTV] , CBC News Calgary
-https://jmp2.uk/stvp-CA4600010PN
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png",  Citytv Calgary 
@@ -18,10 +17,10 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://yt3.ggpht.com/-Jb3mz0jXC2g/AAAAAAAAAAI/AAAAAAAAAAA/nTl3a-ot_Hs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", CTV News Channel 
-
+http://oa8.tvmain.icu:8080/95956512/16845652/57350
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.J9TSN4RCsiuhMzmtpzDYNgHaHa?cb=thfc1&pid=ImgDet&w=203&h=203&c=7&o=7&rm=3", CTV Two Alberta  
-
+http://stream.cammonitorplus.net/1731/index.m3u8
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.4ceiij2SRfbqresYhtGGKAHaHa?cb=thfc1&rs=1&pid=ImgDetMain&o=7&rm=3" [IPTV Player] , Global Calgary 
 http://limited-name.com:80/Macdougall01/Password01/957398.m3u8
@@ -39,6 +38,15 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/OSB.xztWaNFMWAqpd_oruQGpZg--.png?w=50&h=50&c=6&qlt=90&o=6&dpr=2&pid=BingSports" [삼성티브] , PGA Tour 
 https://jmp2.uk/stvp-KRBD3100007WB
+
+
+
+#EXTINF:-1 group-title="캐나다" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" [Public], Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+
+#EXTINF:-1 group-title="캐나다" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tvokids-logo.svg/960px-Tvokids-logo.svg.png" [Public], TVOKids
+https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/playlist-hls.m3u8
+
 
 
 #EXTINF:-1 group-title="캘거리" tvg-logo="https://thf.bing.com/th/id/OIP.c3gLhfcFE1dWYt9bbRh3zQHaHI?w=180&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3", Crave1
