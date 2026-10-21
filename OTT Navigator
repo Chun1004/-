@@ -1,5 +1,5 @@
 
-#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz; https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
 
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CBC News Calgary
@@ -20,7 +20,7 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/92.m3u8
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://www.prolificnorth.co.uk/wp-content/uploads/2015/02/skysportsgolf_0.png", Sky Sports Golf 
 https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
-#EXTINF:-1 group-title="캐나다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260622T060254SQUARE.png" group-title="Sports & Outdoors", PGA Tour
+#EXTINF:-1 group-title="캐나다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260622T060254SQUARE.png" , PGA Tour
 https://jmp2.uk/stvp-CA1300004QB
 
 
