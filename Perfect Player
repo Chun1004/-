@@ -21,6 +21,7 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/92.m3u8
 https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260622T060254SQUARE.png" [삼성티브] , PGA Tour
+https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_271_77C0F5F4.m3u8
 https://jmp2.uk/stvp-CA1300004QB
 
 
@@ -49,7 +50,8 @@ https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciO
 
 
 
-;;;   https://github.com/daguanjian/tv-m3u8/blob/main/korea2.m3u8
+;;;   
+https://github.com/daguanjian/tv-m3u8/blob/main/korea2.m3u8
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" , KBS1
@@ -83,13 +85,14 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
 http://124.222.153.240/kakaotv/get_channel.php?channel=ytn
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" , 연합뉴스TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1792573279/ei/_yrYaqW3J9CWsfIPttjlgQ4/ip/184.64.31.147/id/6QZ_qc75ihU.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-ni5f-ttj6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/bui/AWzQHwp7KzOQ67Gooz-XYyIVhDRqBpHIMMjb90xe9hBANRW10d_lK-jwk5PbMw9rG1dItRltJg/spc/mpRQ_zj98M1GHU1riPqe2fgYHlgVxExRW8TdgKJHay4yQAbY_O59Nj_DR9xp/vprv/1/ns/bHR6E3ZXzuOAelVRJXL8j_YZ/reg/0/playlist_type/DVR/initcwndbps/4207625/met/1792551681,/mh/Ku/mm/44/mn/sn-ni5f-ttj6/ms/lva/mv/m/mvi/4/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115/n/7MPB228-wksimMAU/mt/1792551394/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AE0s2JYwRAIgR_DLKBjN-IJJCfnbdJRzXxaXL4oIBX4NzAaoF5Ax7-ICICYOjc-ujCPcB-NcjHfzK9Tlt_UBRllGFoFVNh_tTPZC/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgeHUxWwDKG442rb4K9YDGnrA8aVN_Q84AzKnlj6oL7IgCIB2rctR0uYHLG0gQxmYonjc_KuHFht6DYZHxcw6WkPF7/playlist/index.m3u8
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
+
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" , SBS Golf 
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png"] , SBS Golf2 
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/15IKkYcbcF.png" , SBS Golf2 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" , JTBC Golf
@@ -101,8 +104,7 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean.m3u] ,SPOTV Golf+
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
 
-
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
 
 
