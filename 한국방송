@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://github.com/globetvapp/epg/blob/main/Korea/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/ca.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [korea2] , KBS1
 https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
