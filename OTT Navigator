@@ -1,5 +1,5 @@
 
-#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CBC News Calgary
