@@ -120,9 +120,11 @@ http://43.137.43.57/get_channel.php?channel=sbs_plus
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [삼성티브] , JTBC2
+https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
 https://jmp2.uk/stvp-KR3600001J9
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [삼성티브] , JTBC4 
+https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
 https://jmp2.uk/stvp-KR3600002ZY
 
 #EXTINF:-1  group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260422T013555SQUARE.png" [삼성티브] ,JTBC 라이프
