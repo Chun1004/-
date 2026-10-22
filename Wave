@@ -43,10 +43,14 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2101&apikey=SUHO42
 #EXTINF:-1 group-title="대한민국" Wavve Y01, 연합뉴스 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
 
+
+
 #EXTINF:-1 group-title="대한민국" Wavve S05, SBS GOLF 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S05&apikey=SUHO421143
 #EXTINF:-1 group-title="대한민국" Wavve S12, SBS GOLF2
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S12&apikey=SUHO421143
+
+
 
 #EXTINF:-1 group-title="대한민국" Wavve K04, KBS Joy 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K04&apikey=SUHO421143
@@ -92,6 +96,11 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S04&apikey=SUHO4211
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S06&apikey=SUHO421143
 #EXTINF:-1 group-title="대한민국" Wavve S22, SBS F!L 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S22&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve C2411, MBN 특종세상 
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2411&apikey=SUHO421143
+#EXTINF:-1 group-title="대한민국" Wavve C2412, MBN 실제상황
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2412&apikey=SUHO421143
+
 
 #EXTINF:-1 group-title="대한민국" Wavve X01, EDGE 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=X01&apikey=SUHO421143
