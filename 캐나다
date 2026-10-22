@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://th.bing.com/th/id/OIP.d3BA8GcRWrf15WA5I5fh8QHaEK?w=292&h=180&c=7&r=0&o=7&pid=1.7&rm=3" [iptvcat.com iptv/streams/ca.m3u] , CBC Calgary 
