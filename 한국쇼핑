@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/kr.xml.gz"
  
 
 #EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://kmug.co.kr/data/file/design/data_logo_hmall1.jpg" 삼성티브+ , 현대홈쇼핑 
