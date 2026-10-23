@@ -50,7 +50,7 @@ https://jmp2.uk/stvp-KRBD1400001ED
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" [korea2] , SBS Golf 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [korean] , SBS Golf2 kr
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [korean] , SBS Golf2 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
@@ -67,10 +67,8 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [KRTV] , 빌리어즈TV 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [KRTV 삼성티브] Billiards , 빌리어즈TV 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [삼성티브] , BilliardsTV 
 https://jmp2.uk/stvp-KRBC3200011N3
 
 
