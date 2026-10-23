@@ -90,7 +90,7 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K06&apikey=SUHO4211
 
 
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://kakotv.com/live/MBC%EB%93%9C%EB%9D%BC%EB%A7%88-103.html?secr=" Wavve M02, MBC Drama
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://kakotv.com/live/MBC%EB%93%9C%EB%9D%BC%EB%A7%88-103.html?secr=" Wavve M02, MBC드라마
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M02&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="" Wavve M03, MBC Every1 
