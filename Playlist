@@ -8,6 +8,13 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91
 
 
+*** 한국방송:epg : https://epg.lat/files/kr.xml.gz *** 
+#EXTM3U x-tvg-url="https://epg.lat/files/kr.xml.gz"
+#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1",KBS1
+http://방송스트리밍주소...
+
+
+
 
 
 *** OTT Navigator *** 
@@ -44,7 +51,7 @@ https://epgshare01.online/epgshare01/epg_ripper_CA2.txt
 https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz
 
 
-*** 한국방송:epg *** 
+*** 한국방송:epg : https://epg.lat/files/kr.xml.gz *** 
  List:
 https://epgshare01.online/epgshare01/epg_ripper_KR1.txt
  EPG: 
