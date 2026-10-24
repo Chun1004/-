@@ -65,8 +65,8 @@ https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" , SBS 
-http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
+http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" , MBN 
