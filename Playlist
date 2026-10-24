@@ -1,3 +1,6 @@
+#EXTM3U  url-tvg="https://www.open-epg.com/files/canada.xml.gz, https://www.open-epg.com/files/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epg.lat/files/ca.xml.gz, https://epg.lat/files/kr.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml"
+
+
 *** 캐나다방송:m3u *** 
 https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%EC%BA%98%EA%B1%B0%EB%A6%AC
 
@@ -7,11 +10,6 @@ https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%A
 *** 한국쇼핑:m3u *** 
 https://raw.githubusercontent.com/Chun1004/-/refs/heads/master/%ED%95%9C%EA%B5%AD%EC%87%BC%ED%95%91
 
-
-*** 한국방송:epg : https://epg.lat/files/kr.xml.gz *** 
-#EXTM3U x-tvg-url="https://epg.lat/files/kr.xml.gz"
-#EXTINF:-1 tvg-id="KBS1" tvg-name="KBS1",KBS1
-http://방송스트리밍주소...
 
 
 
