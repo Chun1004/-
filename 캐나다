@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://epg.lat/files/ca.xml.gz, https://www.open-epg.com/files/canada.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U  url-tvg="https://www.open-epg.com/files/canada.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://th.bing.com/th/id/OIP.d3BA8GcRWrf15WA5I5fh8QHaEK?w=292&h=180&c=7&r=0&o=7&pid=1.7&rm=3" [iptvcat.com iptv/streams/ca.m3u] , CBC Calgary 
@@ -38,6 +38,9 @@ https://uzzu.tv/hls/3484.85bb1cd86d3219a7287ce1bc/93.m3u8
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260622T060254SQUARE.png" [삼성티브] , PGA Tour
 https://jmp2.uk/stvp-CA1300004QB
+
+#EXTINF:-1 group-title="캐나다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1300004QB_20260622T060254SQUARE.png" [삼성티브] , PGA Tour
+https://jmp2.uk/stvp-US400001M2
 
 
 
