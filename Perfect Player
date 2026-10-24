@@ -1,5 +1,5 @@
 
-#EXTM3U  url-tvg="https://epg.lat/files/kr.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U  url-tvg="https://epg.lat/files/kr.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz"
 
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" , CBC News Calgary
@@ -106,6 +106,8 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean.m3u] ,SPOTV Golf+
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean.m3u] ,SPOTV Golf & Health
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=nQ5JuEZUUgkLJs7DawG1HcyGurRLVgMhiruiUTAS&secret=8567e45a1de6f83367d4e8fa8b2232eb&time=1792437008
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
