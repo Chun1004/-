@@ -51,7 +51,7 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtY
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" , JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 
-#EXTINF:-1 group-title="대한민국" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean.m3u] , SPOTV Golf &amp; Health
+#EXTINF:-1 group-title="대한민국" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean.m3u] , SPOTV Golf & Health
 https://k227.jk-cdn.com/playlist/live.m3u8?sid=nQ5JuEZUUgkLJs7DawG1HcyGurRLVgMhiruiUTAS&secret=8567e45a1de6f83367d4e8fa8b2232eb&time=1792437008
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
