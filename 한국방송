@@ -18,6 +18,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat] , SBS 
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [WinnieIPTV] , MBN 
@@ -70,9 +71,8 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [KRTV 삼성티브] Billiards , 빌리어즈TV 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [KRTV 삼성티브] Billiards , 빌리어즈티비 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
-https://jmp2.uk/stvp-KRBC3200011N3
 
 
 
