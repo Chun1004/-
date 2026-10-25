@@ -1,5 +1,6 @@
 https://github.com/mjpark-dev/iptv/blob/master/KRTV.m3u
 https://github.com/daguanjian/tv-m3u8/blob/main/korea2.m3u8
+https://github.com/mjpark-dev/iptv/blob/master/korean.m3u
 
 
 #EXTM3U  url-tvg="https://www.open-epg.com/files/canada.xml.gz, https://www.open-epg.com/files/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epg.lat/files/ca.xml.gz, https://epg.lat/files/kr.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml"
