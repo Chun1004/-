@@ -57,11 +57,11 @@ https://jmp2.uk/stvp-KRBD1400001ED
 
 
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" [korea2] , SBS Golf 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" [] , SBS Golf 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [korean] , SBS Golf2 
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [] , SBS Golf2 
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
@@ -82,11 +82,10 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY
 
 
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png" [KRTV ViSearch] , OCN 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png" [ViSearch] , OCN 
 http://sho0tyz.i234.me:9981/stream/channelid/1714327810?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
-https://live-114.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [KRTV ViSearch] , OCN Movies 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [ViSearch] , OCN Movies 
 http://sho0tyz.i234.me:9981/stream/channelid/705683122?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://thf.bing.com/th/id/OIP.wKt1wBBtMnsdCe1J-f01aAAAAA?w=125&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [KRTV ViSearch] , OCN Movies2 
