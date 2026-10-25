@@ -6,16 +6,17 @@ https://github.com/mjpark-dev/iptv/blob/master/korean.m3u
 #EXTM3U  url-tvg="https://www.open-epg.com/files/canada.xml.gz, https://www.open-epg.com/files/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epg.lat/files/ca.xml.gz, https://epg.lat/files/kr.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml"
 
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [korea2] , KBS1
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [KRTV] , KBS1
 https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [korea2] , KBS2 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [KRTV] , KBS2 
 https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" [KRTV korea2] , MBC 
 https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat] , SBS 
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
@@ -128,11 +129,11 @@ http://43.137.43.57/get_channel.php?channel=sbs_plus
 
 
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [삼성티브] , JTBC2
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [KRTV 삼성티브] , JTBC2
 https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
 https://jmp2.uk/stvp-KR3600001J9
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [삼성티브] , JTBC4 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [KRTV 삼성티브] , JTBC4 
 https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
 https://jmp2.uk/stvp-KR3600002ZY
 
