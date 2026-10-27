@@ -23,7 +23,8 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [iptvcat] , SBS 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [KoreaTV3 iptvcat] , SBS 
+http://123.140.197.22/stream/1/play.m3u8
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8?checkedby:iptvcat.com
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
