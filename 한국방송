@@ -73,14 +73,14 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korea2 KakoTV] , SPOTV Golf&Health
-https://k227.jk-cdn.com/playlist/live.m3u8?sid=jjBdYXBaBSACNIFn1XLSRpzigvPwfX1PqGJsEgrL&secret=cb06327887d0d886fe32bc6f11d0ccc3&time=1793080149
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [KRTV 삼성티브] Billiards , 빌리어즈티비 
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [삼성티브 KRTV] 빌리어즈티비 ,  World Billiards TV
+https://jmp2.uk/stvp-KRBC3200011N3
 
 
 
