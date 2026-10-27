@@ -8,7 +8,7 @@ https://github.com/East1001/East1001.github.io/blob/main/KoreaTV3.m3u
 
 
 
-#EXTM3U  url-tvg="https://www.open-epg.com/files/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epg.lat/files/kr.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml"
+#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml, https://www.open-epg.com/files/korea1.xml.gz, https://epg.lat/files/kr.xml.gz"
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [KRTV] , KBS1
