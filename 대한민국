@@ -1,4 +1,6 @@
-#EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://www.open-epg.com/files/canada.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml, https://www.open-epg.com/files/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epg.lat/files/ca.xml.gz, https://epg.lat/files/kr.xml.gz"
+#EXTM3U 
+
+; #EXTM3U  url-tvg="https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://www.open-epg.com/files/canada.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/all.xml, https://www.open-epg.com/files/korea1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz, https://epg.lat/files/ca.xml.gz, https://epg.lat/files/kr.xml.gz"
 
 
 
