@@ -9,10 +9,10 @@ https://jmp2.uk/stvp-CA4600010PN
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://thf.bing.com/th/id/OIP.8HN_gQBbBGnz0CXkoImf5wHaEK?w=335&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [삼성티브 PlutoTV] , CBC News Calgary
 https://amg00788-cbc-amg00788c12-lg-ca-5921.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="캐나다" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png" [] ,  Citytv Calgary 
+#EXTINF:-1 group-title="캐나다" tvg-logo="https://getmoby.com/wp-content/uploads/tv-logos/png/007.png" [M3U8 Player] ,  Citytv Calgary 
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
-#EXTINF:-1 group-title="캐나다" tvg-logo="https://www.elliotttreefarm.ca/wp-content/uploads/2024/12/citynews.jpg" iptv/streams/ca.m3u [iptv/streams/ca.m3u] , CityNews Calgary
+#EXTINF:-1 group-title="캐나다" tvg-logo="https://www.elliotttreefarm.ca/wp-content/uploads/2024/12/citynews.jpg" [iptv/streams/ca.m3u] , CityNews Calgary
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 
 #EXTINF:-1 group-title="캐나다" tvg-logo="https://thf.bing.com/th/id/OIP.F6TM6aykzdsm2DKlxF04UgAAAA?w=129&h=150&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [] , CTV Calgary 
