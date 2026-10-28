@@ -33,18 +33,17 @@ https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8?checkedby:iptvcat.com
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [WinnieIPTV] , MBN 
-https://www.mbn.co.kr/player/mbnStreamAuth_new_live.mbn?vod_url=https%3A%2F%2Fhls-live.mbn.co.kr%2Fmbn-on-air%2F1000k%2Fplaylist.m3u8
-https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [Korea2] , MBN 
+https://tving-live-o2-skcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkzMjIwMjY1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=WHDRYVgyaydxPF1tUhJMPJbhr9sBpLNFm577GoQDTSolA1IaKuzz6f4xE0Q5mXkFhk6uA8nutW-3XSq5e9Js~45CpFQPBhs813O6v5r9JbonqQWwaWXvv-ad0xyShbLwC55F1zOIhZqadPYc8Wqm-Qd8vq9KE7e4G1Q80lJd8LwLTBfXNA5j261C8SU8rQtqTD9Ykp0BsogKRLNlF80~y4ZZKUWRk6q1e0x0ebwP-NlB7NN5sz91rfYLi6HWMP5v6~oBXFmV1SkEpMBIzYpkLVtsC3cvF4kD9NAJ00CS2OS8QK8HfQeYgtiqnMCrUDxVSaQVL40B61J0RgFdq4KwWA__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2] , tvN 
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMxNzgyMzMsInBhdGgiOiIvbzIifQ.eK6V9OSttK-80O2z2AnXjGT5vL5-Eve300YZdCDTH14
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMyMjAxNzAsInBhdGgiOiIvbzIifQ.F-C2FCYMHNN5p-1j0cGEXntzHmb-f0O8TtOyzqBNeKQ
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [korean] , JTBC 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [Korea2] , JTBC 
 https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMyMjAwODcsInBhdGgiOiIvbzIifQ.im84pjyMzGAA0tkCJ_XRQ58xFvXMfk6gq5avHdjlUhg
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [KRTV] , 채널A
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [Korea2] , 채널A
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/vc1_stream3.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMxNzgxOTksInBhdGgiOiIvbzIifQ.nA6KnLNyKeosUsZJDDlYMJJ1GEh-xQzkvbM7TY4KU48
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [삼성티브 korean] , TV조선  
@@ -69,7 +68,7 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgo
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
+
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" [korea2] , JTBC GOLF&SPORTS
 http://www.hwado.net/webtv/catv/58.php
@@ -77,14 +76,12 @@ http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A2
 http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korea2 KakoTV] , SPOTV Golf&Health
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
+
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [삼성티브 KRTV] 빌리어즈티비 ,  World Billiards TV
-https://jmp2.uk/stvp-KRBC3200011N3
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [삼성티브 KRTV] 빌리어즈티비 , Billiards TV
 
 
 
