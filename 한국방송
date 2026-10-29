@@ -10,10 +10,6 @@ https://github.com/East1001/East1001.github.io/blob/main/KoreaTV3.m3u
 
 #EXTM3U 
 
-; #EXTM3U  url-tvg="https://www.open-epg.com/files/korea1.xml.gz, https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/kr.xml, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epg.lat/files/kr.xml.gz"
-
-
-
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [KRTV] , KBS1
 https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
@@ -33,6 +29,7 @@ https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8?checkedby:iptvcat.com
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 
+
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [Korea2] , MBN 
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMzMjI3NjksInBhdGgiOiIvbzIifQ.FRtPRMOxSUGPOwifqWMZKEwhecPXT7wJFofIcRv0yNQ
 
@@ -44,6 +41,9 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [Korea2] , 채널A
 https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMzMjI4MDUsInBhdGgiOiIvbzIifQ.rkXyetP05Ynff53Wt8RgHTJNF89xCrhmfUFZkQ7Cco4
+
+
+
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [삼성티브 korean] , TV조선  
 https://jmp2.uk/stvp-KR3700002JT
@@ -71,7 +71,6 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgol
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" [korea2] , JTBC GOLF&SPORTS
 http://www.hwado.net/webtv/catv/58.php
-http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korea2 KakoTV] , SPOTV Golf&Health
@@ -106,36 +105,6 @@ http://koreatv.dothome.co.kr/kbslife.php
 #EXTINF:-1 group-title="한국방송" tvg-logo="" [korea2] , KBS Story
 http://koreatv.dothome.co.kr/kbsstory.php
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/KBS%20Drama-319.html?secr=" [korea2] , KBS Drama
-http://koreatv.dothome.co.kr/kbsdrama.php
-
-
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [KRTV] , MBC every1
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/MBC%EB%93%9C%EB%9D%BC%EB%A7%88-103.html?secr=" [] , MBC드라마
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="" [] , MBC Every1 
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="" [KRTV] , MBC Net
-http://koreatv.dothome.co.kr/mbcnet.php
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="" [] , MBC ON
-
-
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/BwuUMBeGgo.png" [korea2] , SBS Plus
-http://43.137.43.57/get_channel.php?channel=sbs_plus
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://thf.bing.com/th/id/OIP.YuErSq3yGr9lm2d75cV0HgHaHa?w=160&h=180&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [Korea2] , tvN SHOW
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200014XZ_20250827T010140SQUARE.png" [Korea2] , tvN STORY
-
-#EXTINF:-1 group-title="한국방송" [Korea2] , tvN DRAMA 
-
-#EXTINF:-1 group-title="한국방송" [] , tvN SPORTS 
-
-
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600001J9_20251029T003200SQUARE.png" [KRTV 삼성티브] , JTBC2
 https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
@@ -159,34 +128,6 @@ http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?check
 
 #EXTINF:-1 group-title="한국방송" [East1001] , YTN 24
 https://ytnlive.ytn.co.kr/ytn/_definst_/ytnlive_stream_20220426/medialist_9171188557012390620_hls.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
