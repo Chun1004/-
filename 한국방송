@@ -15,6 +15,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [KoreaTV3 iptvcat] , SBS 
+http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8?checkedby:iptvcat.com
 https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
@@ -22,16 +23,17 @@ https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [Korea2] , MBN 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMzMjI3NjksInBhdGgiOiIvbzIifQ.FRtPRMOxSUGPOwifqWMZKEwhecPXT7wJFofIcRv0yNQ
+https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2401&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2] , tvN 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d66a3e87f153d786553381d0df/019d66a48657153d786553381d0e2/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMzMjI2NzQsInBhdGgiOiIvbzIifQ.4oWdAJMo74MHknd9Z-1TlYVOBFjbxs2TjCV2vrVNeYA
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [Korea2] , JTBC 
-https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMzMjI1OTAsInBhdGgiOiIvbzIifQ.MHvJR-tvxK7ix3L9aAnBGi3R9JB7MYGCeLU0O_8srQY
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [Korea2] , 채널A
-https://tving-live-o2-xcdn.tving.com/o2/v1/019ed8854c2c1eb80e79cd7979dc2/019ed88d352d153d78653cb4bf7bdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTMzMjI4MDUsInBhdGgiOiIvbzIifQ.rkXyetP05Ynff53Wt8RgHTJNF89xCrhmfUFZkQ7Cco4
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&apikey=SUHO421143
 
 
 
@@ -46,8 +48,8 @@ https://jmp2.uk/stvp-KRBD2400001XD
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" Yonhap [삼성티브 ViSearch] , 연합뉴스TV
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
 https://jmp2.uk/stvp-KRBD1400001ED
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
 
 
 
@@ -65,7 +67,7 @@ http://www.hwado.net/webtv/catv/58.php
 http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean] , SPOTV Golf&Health
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
+
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
