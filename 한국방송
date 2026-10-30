@@ -23,7 +23,6 @@ https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [Korea2] , MBN 
-https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2401&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2] , tvN 
@@ -47,8 +46,7 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 https://jmp2.uk/stvp-KRBD2400001XD
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" Yonhap [삼성티브 ViSearch] , 연합뉴스TV
-https://jmp2.uk/stvp-KRBD1400001ED
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/QnbAgi9fWM.png" Yonhap [삼성티브] , 연합뉴스TV
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO421143
 
 
@@ -60,7 +58,6 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgo
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
-
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" [korea2] , JTBC GOLF&SPORTS
 http://www.hwado.net/webtv/catv/58.php
