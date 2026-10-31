@@ -51,7 +51,7 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=K02&apikey=SUHO4211
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=M01&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" , SBS 
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=S01&apikey=SUHO421143
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" , MBN 
@@ -94,6 +94,8 @@ https://jmp2.uk/stvp-KR44000010Y
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png" , OCN 
 http://sho0tyz.i234.me:9981/stream/channelid/1714327810?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 
+#EXTINF:-1 group-title="한국방송" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [ViSearch] , OCN Movies 
+http://sho0tyz.i234.me:9981/stream/channelid/705683122?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 
 
 
