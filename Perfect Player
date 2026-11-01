@@ -50,16 +50,14 @@ http://43.164.132.11/kakaotv/get_channel.php?channel=kbs2
 http://sho0tyz.i234.me:9981/stream/channelid/361208385?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" , MBC 
-http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" , SBS 
-http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
-http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
+https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" , MBN 
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
+https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00708&apikey=SUHO421143
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://kakotv.com/live/TVN-92.html?secr=" , tvN 
 http://124.222.153.240/kakaotv/get_channel.php?channel=tvn
@@ -98,9 +96,6 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
-
-#EXTINF:-1 group-title="대한민국" tvg-logo="" []  ,빌리어즈티비
-http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv
 
 
 
