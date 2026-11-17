@@ -1,5 +1,6 @@
 
-#EXTM3U 
+###EXTM3U  url-tvg="https://epg.lat/files/kr.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+ 
 
 #EXTINF:-1 group-title="한국쇼핑" tvg-logo="https://kmug.co.kr/data/file/design/data_logo_hmall1.jpg" 삼성티브+ , 현대홈쇼핑 
 http://123.111.139.103:1935/live/hmall.stream/chunklist_w205728486.m3u8
