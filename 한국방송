@@ -56,11 +56,10 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO4211
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/0YjtTy2rDu.png" [] , SBS Golf 
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [] , SBS Golf2 
 http://43.164.132.11/kakaotv/get_channel.php?channel=jtbc3
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
 http://43.164.132.11/kakaotv/get_channel.php?channel=j_golf
@@ -70,7 +69,7 @@ http://www.hwado.net/webtv/catv/58.php
 http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD1397047A173437D49BA1D34AEB6731/chunklist_w525103698.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://nspotv1.com/uploads/tv/logos/107.png" [korean] , SPOTV Golf&Health
-
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20250827T010239SQUARE.png" [삼성티브] , 스크린골프존 
 https://jmp2.uk/stvp-KR44000010Y
