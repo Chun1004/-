@@ -1,4 +1,4 @@
-##EXTM3U  url-tvg="https://www.open-epg.com/files/korea.xml, https://www.open-epg.com/files/korea.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+##EXTM3U  url-tvg="https://www.open-epg.com/files/korea.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
  
 
 #EXTINF:-1 group-title="대한민국" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" , KBS1
