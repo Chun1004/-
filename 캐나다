@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://www.open-epg.com/files/korea.xml.gz, https://www.open-epg.com/files/canada.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
+#EXTM3U  url-tvg="https://www.open-epg.com/files/korea.xml, https://www.open-epg.com/files/korea.xml.gz, https://www.open-epg.com/files/canada.xml, https://www.open-epg.com/files/canada.xml.gz, https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/all.xml.gz"
 
 
 
