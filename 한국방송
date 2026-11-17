@@ -2,18 +2,22 @@
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C006.png" [KRTV] , KBS1
+http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
 https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C007.png" [KRTV] , KBS2 
+http://43.164.132.11/kakaotv/get_channel.php?channel=kbs1
 https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/0HuZEjvo2B.png" [KRTV korea2] , MBC 
+http://43.164.132.11/kakaotv/get_channel.php?channel=mbc
 https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1392208922.m3u8
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/J7W5Ijt2pS.png" [KoreaTV3 iptvcat] , SBS 
+http://43.164.132.11/kakaotv/get_channel.php?channel=sbs
 http://1.222.207.80:1935/live/cjbtv/chunklist_w38222235.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8?checkedby:iptvcat.com
@@ -22,26 +26,26 @@ https://list.iptvcat.com/my_list/s/9ae09f8d45515a75e36d80b7930849ef.m3u8
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/LsNX14VdYW.png" [Korea2] , MBN 
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2401&apikey=SUHO421143
+http://43.164.132.11/kakaotv/get_channel.php?channel=mbn
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tvn-korea-2012-logo-8F74714F46-seeklogo.com.png" [korea2] , tvN 
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C00551&apikey=SUHO421143
+http://43.164.132.11/kakaotv/get_channel.php?channel=tvn
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [Korea2] , JTBC 
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [Korea2] , 채널A
-https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=C2501&apikey=SUHO421143
-
-
-
+http://43.164.132.11/kakaotv/get_channel.php?channel=channela
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/T/tv-chosun-logo-88F84B5FAE-seeklogo.com.png" [삼성티브 korean] , TV조선  
+http://43.164.132.11/kakaotv/get_channel.php?channel=tvchosun
 https://jmp2.uk/stvp-KR3700002JT
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8?checkedby:iptvcat.com
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_53_245B29EC.m3u8
 
+
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/cbUaX7kImX.png"  [삼성티브 korean] , YTN 
+http://43.164.132.11/kakaotv/get_channel.php?channel=ytn
 https://jmp2.uk/stvp-KRBD2400001XD
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_215_6B2BDBDE.m3u8
 
@@ -55,8 +59,10 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgo
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [] , SBS Golf2 
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
+http://43.164.132.11/kakaotv/get_channel.php?channel=jtbc3
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
+http://43.164.132.11/kakaotv/get_channel.php?channel=j_golf
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://thumbnews.nateimg.co.kr/view610/news.nateimg.co.kr/orgImg/ns/2020/03/11/NISI20200311_0000492498_web.jpg" [korea2] , JTBC GOLF&SPORTS
 http://www.hwado.net/webtv/catv/58.php
@@ -69,21 +75,22 @@ http://211.110.63.98/jtbc3sports1/_definst_/32E28CFC070F873F25913C79D8AAADBEAD13
 https://jmp2.uk/stvp-KR44000010Y
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/Billiards%20TV-93.html?secr=" [삼성티브 KRTV] 빌리어즈티비 , Billiards TV
+http://43.164.132.11/kakaotv/get_channel.php?channel=billiards_tv
 
 
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://seeklogo.com/images/O/ocn-logo-DE2E5D5F07-seeklogo.com.png" [ViSearch] , OCN 
+http://43.164.132.11/kakaotv/get_channel.php?channel=ocn
 http://sho0tyz.i234.me:9981/stream/channelid/1714327810?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tse1.mm.bing.net/th/id/OIP.T1Sn4XnuTmBEm4b-0Mc-_QHaF9?cb=thfc1&pid=ImgDet&w=203&h=162&c=7&o=7&rm=3" [ViSearch] , OCN Movies 
+http://43.164.132.11/kakaotv/get_channel.php?channel=ocn_movies
 http://sho0tyz.i234.me:9981/stream/channelid/705683122?auth=Pzt3k0z1Dbjo2Qqt0Py.QVKcNoJA&profile=pass
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://thf.bing.com/th/id/OIP.wKt1wBBtMnsdCe1J-f01aAAAAA?w=125&h=99&c=7&r=0&o=7&cb=thfc1&pid=1.7&rm=3" [KRTV ViSearch] , OCN Movies2 
+http://43.164.132.11/kakaotv/get_channel.php?channel=ocn_movies2
 
 
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="" [삼성티브] , KBS 뉴스24
-https://jmp2.uk/stvp-KR5100001TH
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/KBSJOY-108.html?secr=" [korea2] , KBS joy 
 http://koreatv.dothome.co.kr/kbsjoy.php
@@ -102,15 +109,6 @@ https://jmp2.uk/stvp-KR3600001J9
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3600002ZY_20251029T003203SQUARE.png" [KRTV 삼성티브] , JTBC4 
 https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
 https://jmp2.uk/stvp-KR3600002ZY
-
-#EXTINF:-1  group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR4000020F_20260422T013555SQUARE.png" [삼성티브] ,JTBC 라이프
-https://jmp2.uk/stvp-KR4000020F
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC46000173Y_20250820T005414SQUARE.png" [삼성티브] , JTBC 뉴스
-https://jmp2.uk/stvp-KRBC46000173Y
-
-#EXTINF:-1 group-title="한국방송" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD5200002XY_20260422T013542SQUARE.png" [삼성티브] , JTBC 골프레슨
-https://jmp2.uk/stvp-KRBD5200002XY
 
 #EXTINF:-1 group-title="한국방송" [korean] , TVCHOSUN2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8?checkedby:iptvcat.com
