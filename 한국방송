@@ -32,6 +32,7 @@ http://43.164.132.11/kakaotv/get_channel.php?channel=mbn
 http://43.164.132.11/kakaotv/get_channel.php?channel=tvn
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [Korea2] , JTBC 
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=9BBUEGsmiFUqM1rnTPz0FRs6xleApQlluq933wqA&secret=7a5bcc2492ee257b94fae6fb2b11b6d1&time=1794932590
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [Korea2] , 채널A
