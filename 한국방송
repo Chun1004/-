@@ -32,7 +32,7 @@ http://43.164.132.11/kakaotv/get_channel.php?channel=mbn
 http://43.164.132.11/kakaotv/get_channel.php?channel=tvn
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C019.png" [Korea2] , JTBC 
-https://k227.jk-cdn.com/playlist/live.m3u8?sid=9BBUEGsmiFUqM1rnTPz0FRs6xleApQlluq933wqA&secret=7a5bcc2492ee257b94fae6fb2b11b6d1&time=1794932590
+https://tving-live-o2-xcdn.tving.com/o2/v1/019db87e92691eb80e7942932b5bd/019db87f02501eb80e7942932b5c0/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3OTQ5NjIwNTYsInBhdGgiOiIvbzIifQ.JYuIHjtyqxUU7U7xWzw901wmN53azti0--ubcgYWKIc
 https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=tving&i=C01582&apikey=SUHO421143
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://hahatv3.com/data/tv/icons/C025.png" [Korea2] , 채널A
@@ -59,8 +59,8 @@ https://ffff.jwsv.i234.me/alive/api/url.m3u8?m=url&s=wavve&i=Y01&apikey=SUHO4211
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolfpc&streamName=sbsgolf2
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/SBS%20Goft%202-112.html?secr=" [] , SBS Golf2 
-http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 http://43.164.132.11/kakaotv/get_channel.php?channel=jtbc3
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsgolf2&streamName=sbsgolf22
 
 #EXTINF:-1 group-title="한국방송" tvg-logo="https://kakotv.com/live/J%20%EA%B3%A8%ED%94%84-88.html?secr=" [korea2] , JTBC Golf
 http://43.164.132.11/kakaotv/get_channel.php?channel=j_golf
